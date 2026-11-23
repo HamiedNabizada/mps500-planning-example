@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this example, please cite it using the metadata from this file."
+type: software
+title: "MPS500 Planning Example: Models, Generated PDDL Descriptions and Plans"
+authors:
+  - family-names: Nabizada
+    given-names: Hamied
+    orcid: "https://orcid.org/0000-0001-8251-837X"
+repository-code: "https://github.com/HamiedNabizada/mps500-planning-example"
+license: CC-BY-4.0
+abstract: "A SysML model of the Festo MPS500, a training plant with a transfer belt and several processing stations, in 19 configurations and three more for rule coverage. Each configuration is turned into a PDDL description and checked. Requires the repositories pddl-sysml-profile and sysml-pddl-transformation."
+keywords:
+  - SysML
+  - PDDL
+  - automated planning
+  - manufacturing

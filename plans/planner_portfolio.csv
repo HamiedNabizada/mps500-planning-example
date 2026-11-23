@@ -1,0 +1,2377 @@
+config;planner;package;class;numeric;status;plan_length;plan_cost;val
+B;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;23;23;valid
+B;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;23;23;valid
+B;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+B;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;23;23;valid
+B;Cerberus;cerberus-sat;satisficing;no;solved;23;23;valid
+B;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;23;23;valid
+B;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;23;23;valid
+B;Complementary;ipc2023_complementary;optimal;no;solved;23;23;valid
+B;Count Downward;cd-agl;satisficing;yes;solved;23;23;valid
+B;Count Downward;cd-opt;optimal;yes;solved;23;23;valid
+B;Count Downward;cd-sat;satisficing;yes;solved;23;23;valid
+B;Count Downward Together;cdt-opt;optimal;yes;solved;23;23;valid
+B;Dalai;ipc2023_dalai_agl;satisficing;no;solved;23;23;valid
+B;Dalai;ipc2023_dalai_opt;optimal;no;solved;23;23;valid
+B;Dalai;ipc2023_dalai_sat;satisficing;no;solved;23;23;valid
+B;DecAbStar;ipc2023_decabstar;optimal;no;solved;23;23;valid
+B;DecStar;ipc2023_decstar_agl;satisficing;no;solved;23;23;valid
+B;DecStar;ipc2023_decstar_opt;optimal;no;solved;23;23;valid
+B;DecStar;ipc2023_decstar_sat;satisficing;no;solved;23;23;valid
+B;Delfi;delfi;optimal;no;solved;23;23;valid
+B;DiSCO;ipc2023_disco_agl;satisficing;no;solved;23;23;valid
+B;DiSCO;ipc2023_disco_sat;satisficing;no;solved;23;23;valid
+B;DoFri;ipc2023_dofri;optimal;no;solved;23;23;valid
+B;DOM;ipc2023_dom_opt;optimal;no;solved;23;23;valid
+B;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;23;23;valid
+B;ENHSP;enhsp;satisficing;yes;solved;23;23;valid
+B;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;23;23;valid
+B;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;23;23;valid
+B;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;23;23;valid
+B;FF;ff;satisficing;no;solved;23;23;valid
+B;FSM;ipc2023_FSM;satisficing;no;solved;23;23;valid
+B;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;23;23;valid
+B;FTS;ipc2023_fts_ms_opt;optimal;no;solved;23;23;valid
+B;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;23;23;valid
+B;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+B;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;23;23;valid
+B;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+B;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;23;23;valid
+B;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;23;23;valid
+B;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;23;23;valid
+B;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;23;23;valid
+B;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;23;23;valid
+B;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;23;23;valid
+B;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+B;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;23;23;valid
+B;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+B;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;23;23;valid
+B;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;23;23;valid
+B;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;23;23;valid
+B;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;23;23;valid
+B;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;23;23;valid
+B;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;23;23;valid
+B;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;23;23;valid
+B;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;23;23;valid
+B;LAMA;lama;satisficing;no;solved;23;23;valid
+B;LAMA;lama-first;satisficing;no;solved;23;23;valid
+B;Levitron;ipc2023_levitron_agl;satisficing;no;solved;23;23;valid
+B;Levitron;ipc2023_levitron_sat;satisficing;no;solved;23;23;valid
+B;LPG-TD;lpg-td;satisficing;yes;solved;23;23;valid
+B;Metric-FF;metric-ff;satisficing;yes;solved;23;23;valid
+B;Metric-FF;metric-ff-2.0;satisficing;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;23;23;valid
+B;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;23;23;valid
+B;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;23;23;valid
+B;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;23;23;valid
+B;nplanning;nplanning-agl;satisficing;yes;solved;23;23;valid
+B;nplanning;nplanning-sat;satisficing;yes;solved;23;23;valid
+B;Odin;ipc2023_odin;optimal;no;solved;23;23;valid
+B;OMTPlan;omtplan-opt;optimal;yes;solved;23;23;valid
+B;OMTPlan;omtplan-sat;satisficing;yes;solved;23;23;valid
+B;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;23;23;valid
+B;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;23;23;valid
+B;OPTIC;optic;satisficing;yes;rejected;-;-;-
+B;Panino;panino-agile;satisficing;yes;solved;23;23;valid
+B;Panino;panino-sat;satisficing;yes;solved;23;23;valid
+B;PATTY;patty-agl;satisficing;yes;solved;25;25;valid
+B;PATTY;patty-sat;satisficing;yes;solved;23;23;valid
+B;PATTYINT;pattyint-agl;satisficing;yes;solved;25;25;valid
+B;PlanForge;planforge-gbfs;satisficing;yes;solved;23;23;valid
+B;PlanForge;planforge-opt;optimal;yes;solved;23;23;valid
+B;POPF;popf;satisficing;yes;timeout;-;-;-
+B;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;23;23;valid
+B;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;23;23;valid
+B;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+B;Ragnarok;ipc2023_ragnarok;optimal;no;solved;23;23;valid
+B;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;23;23;valid
+B;Scorpion;scorpion;optimal;no;solved;23;23;valid
+B;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;23;23;valid
+B;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;23;23;valid
+B;SMTPlan;smtplan;satisficing;yes;solved;23;23;valid
+B;Spock;ipc2023_spock;satisficing;no;solved;23;23;valid
+B;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;23;23;valid
+B;SymK;ipc2023_symk;optimal;no;solved;23;23;valid
+B;TamerLite;tamerlite-agl;satisficing;yes;solved;23;23;valid
+B;TamerLite;tamerlite-sat;satisficing;yes;solved;23;23;valid
+B;Tempest;tempest-sat;satisficing;yes;solved;23;23;valid
+B;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;23;23;valid
+B;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;23;23;valid
+B;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;23;23;valid
+B;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;23;23;valid
+B;Tyr;tyr-gbfs;satisficing;yes;solved;23;23;valid
+B;Tyr;tyr-lift;satisficing;yes;solved;23;23;valid
+B;Tyr;tyr-opt;optimal;yes;solved;23;23;valid
+I1;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;75;75;valid
+I1;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;75;75;valid
+I1;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I1;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;75;75;valid
+I1;Cerberus;cerberus-sat;satisficing;no;solved;75;75;valid
+I1;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;75;75;valid
+I1;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;75;75;valid
+I1;Complementary;ipc2023_complementary;optimal;no;solved;75;75;valid
+I1;Count Downward;cd-agl;satisficing;yes;solved;75;75;valid
+I1;Count Downward;cd-opt;optimal;yes;solved;75;75;valid
+I1;Count Downward;cd-sat;satisficing;yes;solved;75;75;valid
+I1;Count Downward Together;cdt-opt;optimal;yes;solved;75;75;valid
+I1;Dalai;ipc2023_dalai_agl;satisficing;no;solved;75;75;valid
+I1;Dalai;ipc2023_dalai_opt;optimal;no;solved;75;75;valid
+I1;Dalai;ipc2023_dalai_sat;satisficing;no;solved;75;75;valid
+I1;DecAbStar;ipc2023_decabstar;optimal;no;solved;75;75;valid
+I1;DecStar;ipc2023_decstar_agl;satisficing;no;solved;75;75;valid
+I1;DecStar;ipc2023_decstar_opt;optimal;no;solved;75;75;valid
+I1;DecStar;ipc2023_decstar_sat;satisficing;no;solved;75;75;valid
+I1;Delfi;delfi;optimal;no;solved;75;75;valid
+I1;DiSCO;ipc2023_disco_agl;satisficing;no;solved;75;75;valid
+I1;DiSCO;ipc2023_disco_sat;satisficing;no;solved;75;75;valid
+I1;DoFri;ipc2023_dofri;optimal;no;solved;75;75;valid
+I1;DOM;ipc2023_dom_opt;optimal;no;solved;75;75;valid
+I1;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;75;75;valid
+I1;ENHSP;enhsp;satisficing;yes;solved;75;75;valid
+I1;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;75;75;valid
+I1;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;75;75;valid
+I1;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;75;75;valid
+I1;FF;ff;satisficing;no;solved;75;75;valid
+I1;FSM;ipc2023_FSM;satisficing;no;solved;75;75;valid
+I1;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;75;75;valid
+I1;FTS;ipc2023_fts_ms_opt;optimal;no;solved;75;75;valid
+I1;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;75;75;valid
+I1;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+I1;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;75;75;valid
+I1;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I1;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;75;75;valid
+I1;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;75;75;valid
+I1;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;75;75;valid
+I1;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;75;75;valid
+I1;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;75;75;valid
+I1;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;75;75;valid
+I1;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I1;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;75;75;valid
+I1;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;75;75;valid
+I1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;77;77;valid
+I1;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;75;75;valid
+I1;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;75;75;valid
+I1;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;75;75;valid
+I1;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;75;75;valid
+I1;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;75;75;valid
+I1;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;75;75;valid
+I1;LAMA;lama;satisficing;no;solved;75;75;valid
+I1;LAMA;lama-first;satisficing;no;solved;75;75;valid
+I1;Levitron;ipc2023_levitron_agl;satisficing;no;solved;75;75;valid
+I1;Levitron;ipc2023_levitron_sat;satisficing;no;solved;75;75;valid
+I1;LPG-TD;lpg-td;satisficing;yes;solved;287;287;valid
+I1;Metric-FF;metric-ff;satisficing;yes;solved;75;75;valid
+I1;Metric-FF;metric-ff-2.0;satisficing;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;75;75;valid
+I1;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;75;75;valid
+I1;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;75;75;valid
+I1;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;75;75;valid
+I1;nplanning;nplanning-agl;satisficing;yes;solved;75;75;valid
+I1;nplanning;nplanning-sat;satisficing;yes;solved;75;75;valid
+I1;Odin;ipc2023_odin;optimal;no;solved;75;75;valid
+I1;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I1;OMTPlan;omtplan-sat;satisficing;yes;timeout;-;-;-
+I1;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;75;75;valid
+I1;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;75;75;valid
+I1;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I1;Panino;panino-agile;satisficing;yes;solved;75;75;valid
+I1;Panino;panino-sat;satisficing;yes;solved;75;75;valid
+I1;PATTY;patty-agl;satisficing;yes;solved;75;75;valid
+I1;PATTY;patty-sat;satisficing;yes;solved;75;75;valid
+I1;PATTYINT;pattyint-agl;satisficing;yes;solved;77;77;valid
+I1;PlanForge;planforge-gbfs;satisficing;yes;solved;75;75;valid
+I1;PlanForge;planforge-opt;optimal;yes;solved;75;75;valid
+I1;POPF;popf;satisficing;yes;timeout;-;-;-
+I1;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;75;75;valid
+I1;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;75;75;valid
+I1;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I1;Ragnarok;ipc2023_ragnarok;optimal;no;solved;75;75;valid
+I1;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;75;75;valid
+I1;Scorpion;scorpion;optimal;no;solved;75;75;valid
+I1;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;75;75;valid
+I1;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;75;75;valid
+I1;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I1;Spock;ipc2023_spock;satisficing;no;solved;75;75;valid
+I1;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;75;75;valid
+I1;SymK;ipc2023_symk;optimal;no;solved;75;75;valid
+I1;TamerLite;tamerlite-agl;satisficing;yes;solved;75;75;valid
+I1;TamerLite;tamerlite-sat;satisficing;yes;solved;75;75;valid
+I1;Tempest;tempest-sat;satisficing;yes;solved;75;75;valid
+I1;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;75;75;valid
+I1;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;75;75;valid
+I1;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;75;75;valid
+I1;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;75;75;valid
+I1;Tyr;tyr-gbfs;satisficing;yes;solved;75;75;valid
+I1;Tyr;tyr-lift;satisficing;yes;solved;75;75;valid
+I1;Tyr;tyr-opt;optimal;yes;solved;75;75;valid
+I2;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;70;70;valid
+I2;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;70;70;valid
+I2;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I2;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;70;70;valid
+I2;Cerberus;cerberus-sat;satisficing;no;solved;70;70;valid
+I2;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;70;70;valid
+I2;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;70;70;valid
+I2;Complementary;ipc2023_complementary;optimal;no;solved;70;70;valid
+I2;Count Downward;cd-agl;satisficing;yes;solved;70;70;valid
+I2;Count Downward;cd-opt;optimal;yes;solved;70;70;valid
+I2;Count Downward;cd-sat;satisficing;yes;solved;70;70;valid
+I2;Count Downward Together;cdt-opt;optimal;yes;solved;70;70;valid
+I2;Dalai;ipc2023_dalai_agl;satisficing;no;solved;70;70;valid
+I2;Dalai;ipc2023_dalai_opt;optimal;no;solved;70;70;valid
+I2;Dalai;ipc2023_dalai_sat;satisficing;no;solved;70;70;valid
+I2;DecAbStar;ipc2023_decabstar;optimal;no;solved;70;70;valid
+I2;DecStar;ipc2023_decstar_agl;satisficing;no;solved;70;70;valid
+I2;DecStar;ipc2023_decstar_opt;optimal;no;solved;70;70;valid
+I2;DecStar;ipc2023_decstar_sat;satisficing;no;solved;70;70;valid
+I2;Delfi;delfi;optimal;no;solved;70;70;valid
+I2;DiSCO;ipc2023_disco_agl;satisficing;no;solved;76;76;valid
+I2;DiSCO;ipc2023_disco_sat;satisficing;no;solved;70;70;valid
+I2;DoFri;ipc2023_dofri;optimal;no;solved;70;70;valid
+I2;DOM;ipc2023_dom_opt;optimal;no;solved;70;70;valid
+I2;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;93;93;valid
+I2;ENHSP;enhsp;satisficing;yes;solved;70;70;valid
+I2;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;91;91;valid
+I2;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;70;70;valid
+I2;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;70;70;valid
+I2;FF;ff;satisficing;no;solved;112;112;valid
+I2;FSM;ipc2023_FSM;satisficing;no;solved;149;149;valid
+I2;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;70;70;valid
+I2;FTS;ipc2023_fts_ms_opt;optimal;no;solved;70;70;valid
+I2;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;70;70;valid
+I2;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+I2;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;70;70;valid
+I2;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I2;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;93;93;valid
+I2;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;70;70;valid
+I2;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;93;93;valid
+I2;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;70;70;valid
+I2;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;70;70;valid
+I2;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;70;70;valid
+I2;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I2;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;70;70;valid
+I2;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;70;70;valid
+I2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;70;70;valid
+I2;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;133;133;valid
+I2;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;70;70;valid
+I2;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;70;70;valid
+I2;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;70;70;valid
+I2;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;70;70;valid
+I2;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;77;77;valid
+I2;LAMA;lama;satisficing;no;solved;70;70;valid
+I2;LAMA;lama-first;satisficing;no;solved;70;70;valid
+I2;Levitron;ipc2023_levitron_agl;satisficing;no;solved;70;70;valid
+I2;Levitron;ipc2023_levitron_sat;satisficing;no;solved;70;70;valid
+I2;LPG-TD;lpg-td;satisficing;yes;solved;198;198;valid
+I2;Metric-FF;metric-ff;satisficing;yes;solved;112;112;valid
+I2;Metric-FF;metric-ff-2.0;satisficing;yes;solved;112;112;valid
+I2;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;70;70;valid
+I2;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;70;70;valid
+I2;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;70;70;valid
+I2;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;70;70;valid
+I2;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;198;198;valid
+I2;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;199;199;valid
+I2;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;198;198;valid
+I2;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;70;70;valid
+I2;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;70;70;valid
+I2;nplanning;nplanning-agl;satisficing;yes;solved;70;70;valid
+I2;nplanning;nplanning-sat;satisficing;yes;solved;70;70;valid
+I2;Odin;ipc2023_odin;optimal;no;solved;70;70;valid
+I2;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I2;OMTPlan;omtplan-sat;satisficing;yes;timeout;-;-;-
+I2;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;91;91;valid
+I2;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;91;91;valid
+I2;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I2;Panino;panino-agile;satisficing;yes;solved;70;70;valid
+I2;Panino;panino-sat;satisficing;yes;solved;70;70;valid
+I2;PATTY;patty-agl;satisficing;yes;solved;142;142;valid
+I2;PATTY;patty-sat;satisficing;yes;solved;91;91;valid
+I2;PATTYINT;pattyint-agl;satisficing;yes;solved;76;76;valid
+I2;PlanForge;planforge-gbfs;satisficing;yes;solved;91;91;valid
+I2;PlanForge;planforge-opt;optimal;yes;solved;70;70;valid
+I2;POPF;popf;satisficing;yes;timeout;-;-;-
+I2;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;70;70;valid
+I2;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;70;70;valid
+I2;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I2;Ragnarok;ipc2023_ragnarok;optimal;no;solved;70;70;valid
+I2;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;70;70;valid
+I2;Scorpion;scorpion;optimal;no;solved;70;70;valid
+I2;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;70;70;valid
+I2;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;70;70;valid
+I2;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I2;Spock;ipc2023_spock;satisficing;no;solved;70;70;valid
+I2;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;70;70;valid
+I2;SymK;ipc2023_symk;optimal;no;solved;70;70;valid
+I2;TamerLite;tamerlite-agl;satisficing;yes;solved;70;70;valid
+I2;TamerLite;tamerlite-sat;satisficing;yes;solved;70;70;valid
+I2;Tempest;tempest-sat;satisficing;yes;solved;133;133;valid
+I2;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;70;70;valid
+I2;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;70;70;valid
+I2;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;70;70;valid
+I2;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;70;70;valid
+I2;Tyr;tyr-gbfs;satisficing;yes;solved;91;91;valid
+I2;Tyr;tyr-lift;satisficing;yes;solved;70;70;valid
+I2;Tyr;tyr-opt;optimal;yes;solved;70;70;valid
+I3;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;49;49;valid
+I3;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;46;46;valid
+I3;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I3;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;46;46;valid
+I3;Cerberus;cerberus-sat;satisficing;no;solved;46;46;valid
+I3;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;49;49;valid
+I3;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;46;46;valid
+I3;Complementary;ipc2023_complementary;optimal;no;solved;46;46;valid
+I3;Count Downward;cd-agl;satisficing;yes;solved;46;46;valid
+I3;Count Downward;cd-opt;optimal;yes;solved;46;46;valid
+I3;Count Downward;cd-sat;satisficing;yes;solved;46;46;valid
+I3;Count Downward Together;cdt-opt;optimal;yes;solved;46;46;valid
+I3;Dalai;ipc2023_dalai_agl;satisficing;no;solved;46;46;valid
+I3;Dalai;ipc2023_dalai_opt;optimal;no;solved;46;46;valid
+I3;Dalai;ipc2023_dalai_sat;satisficing;no;solved;46;46;valid
+I3;DecAbStar;ipc2023_decabstar;optimal;no;solved;46;46;valid
+I3;DecStar;ipc2023_decstar_agl;satisficing;no;solved;49;49;valid
+I3;DecStar;ipc2023_decstar_opt;optimal;no;solved;46;46;valid
+I3;DecStar;ipc2023_decstar_sat;satisficing;no;solved;46;46;valid
+I3;Delfi;delfi;optimal;no;solved;46;46;valid
+I3;DiSCO;ipc2023_disco_agl;satisficing;no;solved;46;46;valid
+I3;DiSCO;ipc2023_disco_sat;satisficing;no;solved;46;46;valid
+I3;DoFri;ipc2023_dofri;optimal;no;solved;46;46;valid
+I3;DOM;ipc2023_dom_opt;optimal;no;solved;46;46;valid
+I3;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;49;49;valid
+I3;ENHSP;enhsp;satisficing;yes;solved;49;49;valid
+I3;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;49;49;valid
+I3;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;46;46;valid
+I3;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;46;46;valid
+I3;FF;ff;satisficing;no;solved;46;46;valid
+I3;FSM;ipc2023_FSM;satisficing;no;solved;46;46;valid
+I3;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;49;49;valid
+I3;FTS;ipc2023_fts_ms_opt;optimal;no;solved;46;46;valid
+I3;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;46;46;valid
+I3;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;49;49;valid
+I3;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;46;46;valid
+I3;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I3;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;49;49;valid
+I3;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;46;46;valid
+I3;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;49;49;valid
+I3;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;49;49;valid
+I3;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;46;46;valid
+I3;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;49;49;valid
+I3;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I3;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;46;46;valid
+I3;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;46;46;valid
+I3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;46;46;valid
+I3;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;49;49;valid
+I3;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;46;46;valid
+I3;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;49;49;valid
+I3;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;49;49;valid
+I3;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;46;46;valid
+I3;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;46;46;valid
+I3;LAMA;lama;satisficing;no;solved;46;46;valid
+I3;LAMA;lama-first;satisficing;no;solved;49;49;valid
+I3;Levitron;ipc2023_levitron_agl;satisficing;no;solved;49;49;valid
+I3;Levitron;ipc2023_levitron_sat;satisficing;no;solved;46;46;valid
+I3;LPG-TD;lpg-td;satisficing;yes;solved;51;51;valid
+I3;Metric-FF;metric-ff;satisficing;yes;solved;49;49;valid
+I3;Metric-FF;metric-ff-2.0;satisficing;yes;solved;49;49;valid
+I3;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;46;46;valid
+I3;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;46;46;valid
+I3;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;46;46;valid
+I3;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;46;46;valid
+I3;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;49;49;valid
+I3;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;46;46;valid
+I3;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;49;49;valid
+I3;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;49;49;valid
+I3;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;46;46;valid
+I3;nplanning;nplanning-agl;satisficing;yes;solved;46;46;valid
+I3;nplanning;nplanning-sat;satisficing;yes;solved;46;46;valid
+I3;Odin;ipc2023_odin;optimal;no;solved;46;46;valid
+I3;OMTPlan;omtplan-opt;optimal;yes;solved;46;46;valid
+I3;OMTPlan;omtplan-sat;satisficing;yes;solved;46;46;valid
+I3;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;46;46;valid
+I3;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;46;46;valid
+I3;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I3;Panino;panino-agile;satisficing;yes;solved;46;46;valid
+I3;Panino;panino-sat;satisficing;yes;solved;46;46;valid
+I3;PATTY;patty-agl;satisficing;yes;solved;46;46;valid
+I3;PATTY;patty-sat;satisficing;yes;solved;46;46;valid
+I3;PATTYINT;pattyint-agl;satisficing;yes;solved;46;46;valid
+I3;PlanForge;planforge-gbfs;satisficing;yes;solved;49;49;valid
+I3;PlanForge;planforge-opt;optimal;yes;solved;46;46;valid
+I3;POPF;popf;satisficing;yes;timeout;-;-;-
+I3;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;49;49;valid
+I3;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;46;46;valid
+I3;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I3;Ragnarok;ipc2023_ragnarok;optimal;no;solved;46;46;valid
+I3;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;46;46;valid
+I3;Scorpion;scorpion;optimal;no;solved;46;46;valid
+I3;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;49;49;valid
+I3;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;46;46;valid
+I3;SMTPlan;smtplan;satisficing;yes;solved;46;46;valid
+I3;Spock;ipc2023_spock;satisficing;no;solved;46;46;valid
+I3;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;46;46;valid
+I3;SymK;ipc2023_symk;optimal;no;solved;46;46;valid
+I3;TamerLite;tamerlite-agl;satisficing;yes;solved;49;49;valid
+I3;TamerLite;tamerlite-sat;satisficing;yes;solved;46;46;valid
+I3;Tempest;tempest-sat;satisficing;yes;solved;49;49;valid
+I3;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;49;49;valid
+I3;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;46;46;valid
+I3;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;49;49;valid
+I3;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;46;46;valid
+I3;Tyr;tyr-gbfs;satisficing;yes;solved;49;49;valid
+I3;Tyr;tyr-lift;satisficing;yes;solved;46;46;valid
+I3;Tyr;tyr-opt;optimal;yes;solved;46;46;valid
+I4;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;unsolvable;-;-;-
+I4;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;unsolvable;-;-;-
+I4;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I4;CEGAR++;ipc2023_cegarplusplus;optimal;no;unsolvable;-;-;-
+I4;Cerberus;cerberus-sat;satisficing;no;unsolvable;-;-;-
+I4;Cerberus;ipc2023_cerberus_agl;satisficing;no;unsolvable;-;-;-
+I4;Cerberus;ipc2023_cerberus_sat;satisficing;no;unsolvable;-;-;-
+I4;Complementary;ipc2023_complementary;optimal;no;unsolvable;-;-;-
+I4;Count Downward;cd-agl;satisficing;yes;unsolvable;-;-;-
+I4;Count Downward;cd-opt;optimal;yes;unsolvable;-;-;-
+I4;Count Downward;cd-sat;satisficing;yes;unsolvable;-;-;-
+I4;Count Downward Together;cdt-opt;optimal;yes;unsolvable;-;-;-
+I4;Dalai;ipc2023_dalai_agl;satisficing;no;unsolvable;-;-;-
+I4;Dalai;ipc2023_dalai_opt;optimal;no;unsolvable;-;-;-
+I4;Dalai;ipc2023_dalai_sat;satisficing;no;unsolvable;-;-;-
+I4;DecAbStar;ipc2023_decabstar;optimal;no;unsolvable;-;-;-
+I4;DecStar;ipc2023_decstar_agl;satisficing;no;unsolvable;-;-;-
+I4;DecStar;ipc2023_decstar_opt;optimal;no;unsolvable;-;-;-
+I4;DecStar;ipc2023_decstar_sat;satisficing;no;unsolvable;-;-;-
+I4;Delfi;delfi;optimal;no;unsolvable;-;-;-
+I4;DiSCO;ipc2023_disco_agl;satisficing;no;unsolvable;-;-;-
+I4;DiSCO;ipc2023_disco_sat;satisficing;no;unsolvable;-;-;-
+I4;DoFri;ipc2023_dofri;optimal;no;unsolvable;-;-;-
+I4;DOM;ipc2023_dom_opt;optimal;no;unsolvable;-;-;-
+I4;Dual-BFWS;dual-bfws-fdparser;satisficing;no;unsolvable;-;-;-
+I4;ENHSP;enhsp;satisficing;yes;unsolvable;-;-;-
+I4;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;unsolvable;-;-;-
+I4;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;unsolvable;-;-;-
+I4;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;unsolvable;-;-;-
+I4;FF;ff;satisficing;no;unsolvable;-;-;-
+I4;FSM;ipc2023_FSM;satisficing;no;unsolvable;-;-;-
+I4;FTS;ipc2023_fts_ff_agl;satisficing;no;unsolvable;-;-;-
+I4;FTS;ipc2023_fts_ms_opt;optimal;no;unsolvable;-;-;-
+I4;FTS;ipc2023_fts_sbd_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+I4;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I4;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;unsolvable;-;-;-
+I4;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;unsolvable;-;-;-
+I4;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;unsolvable;-;-;-
+I4;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;unsolvable;-;-;-
+I4;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I4;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I4;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;unsolvable;-;-;-
+I4;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;unsolvable;-;-;-
+I4;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;unsolvable;-;-;-
+I4;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;unsolvable;-;-;-
+I4;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;unsolvable;-;-;-
+I4;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;timeout;-;-;-
+I4;LAMA;lama;satisficing;no;unsolvable;-;-;-
+I4;LAMA;lama-first;satisficing;no;unsolvable;-;-;-
+I4;Levitron;ipc2023_levitron_agl;satisficing;no;unsolvable;-;-;-
+I4;Levitron;ipc2023_levitron_sat;satisficing;no;unsolvable;-;-;-
+I4;LPG-TD;lpg-td;satisficing;yes;unsolvable;-;-;-
+I4;Metric-FF;metric-ff;satisficing;yes;unsolvable;-;-;-
+I4;Metric-FF;metric-ff-2.0;satisficing;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;unsolvable;-;-;-
+I4;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;unsolvable;-;-;-
+I4;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;unsolvable;-;-;-
+I4;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;unsolvable;-;-;-
+I4;nplanning;nplanning-agl;satisficing;yes;unsolvable;-;-;-
+I4;nplanning;nplanning-sat;satisficing;yes;unsolvable;-;-;-
+I4;Odin;ipc2023_odin;optimal;no;unsolvable;-;-;-
+I4;OMTPlan;omtplan-opt;optimal;yes;no-plan;-;-;-
+I4;OMTPlan;omtplan-sat;satisficing;yes;no-plan;-;-;-
+I4;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;unsolvable;-;-;-
+I4;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;unsolvable;-;-;-
+I4;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I4;Panino;panino-agile;satisficing;yes;unsolvable;-;-;-
+I4;Panino;panino-sat;satisficing;yes;unsolvable;-;-;-
+I4;PATTY;patty-agl;satisficing;yes;error;-;-;-
+I4;PATTY;patty-sat;satisficing;yes;error;-;-;-
+I4;PATTYINT;pattyint-agl;satisficing;yes;error;-;-;-
+I4;PlanForge;planforge-gbfs;satisficing;yes;solved;0;-;invalid
+I4;PlanForge;planforge-opt;optimal;yes;solved;0;-;invalid
+I4;POPF;popf;satisficing;yes;unsolvable;-;-;-
+I4;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;unsolvable;-;-;-
+I4;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;unsolvable;-;-;-
+I4;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I4;Ragnarok;ipc2023_ragnarok;optimal;no;unsolvable;-;-;-
+I4;Scorpion;ipc2023_scorpion_2023;optimal;no;unsolvable;-;-;-
+I4;Scorpion;scorpion;optimal;no;unsolvable;-;-;-
+I4;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;unsolvable;-;-;-
+I4;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;unsolvable;-;-;-
+I4;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I4;Spock;ipc2023_spock;satisficing;no;unsolvable;-;-;-
+I4;SymBD;ipc2023_SymBD_2023_opt;optimal;no;unsolvable;-;-;-
+I4;SymK;ipc2023_symk;optimal;no;unsolvable;-;-;-
+I4;TamerLite;tamerlite-agl;satisficing;yes;no-plan;-;-;-
+I4;TamerLite;tamerlite-sat;satisficing;yes;no-plan;-;-;-
+I4;Tempest;tempest-sat;satisficing;yes;unsolvable;-;-;-
+I4;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;unsolvable;-;-;-
+I4;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;unsolvable;-;-;-
+I4;TFTM;ipc2023_tftm_co1_agl;satisficing;no;unsolvable;-;-;-
+I4;TFTM;ipc2023_tftm_co1_sat;satisficing;no;unsolvable;-;-;-
+I4;Tyr;tyr-gbfs;satisficing;yes;unsolvable;-;-;-
+I4;Tyr;tyr-lift;satisficing;yes;unsolvable;-;-;-
+I4;Tyr;tyr-opt;optimal;yes;unsolvable;-;-;-
+I5;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;20;20;valid
+I5;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;20;20;valid
+I5;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I5;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;20;20;valid
+I5;Cerberus;cerberus-sat;satisficing;no;solved;20;20;valid
+I5;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;20;20;valid
+I5;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;20;20;valid
+I5;Complementary;ipc2023_complementary;optimal;no;solved;20;20;valid
+I5;Count Downward;cd-agl;satisficing;yes;solved;20;20;valid
+I5;Count Downward;cd-opt;optimal;yes;solved;20;20;valid
+I5;Count Downward;cd-sat;satisficing;yes;solved;20;20;valid
+I5;Count Downward Together;cdt-opt;optimal;yes;solved;20;20;valid
+I5;Dalai;ipc2023_dalai_agl;satisficing;no;solved;20;20;valid
+I5;Dalai;ipc2023_dalai_opt;optimal;no;solved;20;20;valid
+I5;Dalai;ipc2023_dalai_sat;satisficing;no;solved;20;20;valid
+I5;DecAbStar;ipc2023_decabstar;optimal;no;solved;20;20;valid
+I5;DecStar;ipc2023_decstar_agl;satisficing;no;solved;20;20;valid
+I5;DecStar;ipc2023_decstar_opt;optimal;no;solved;20;20;valid
+I5;DecStar;ipc2023_decstar_sat;satisficing;no;solved;20;20;valid
+I5;Delfi;delfi;optimal;no;solved;20;20;valid
+I5;DiSCO;ipc2023_disco_agl;satisficing;no;solved;20;20;valid
+I5;DiSCO;ipc2023_disco_sat;satisficing;no;solved;20;20;valid
+I5;DoFri;ipc2023_dofri;optimal;no;solved;20;20;valid
+I5;DOM;ipc2023_dom_opt;optimal;no;solved;20;20;valid
+I5;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;20;20;valid
+I5;ENHSP;enhsp;satisficing;yes;solved;20;20;valid
+I5;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;20;20;valid
+I5;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;20;20;valid
+I5;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;20;20;valid
+I5;FF;ff;satisficing;no;solved;20;20;valid
+I5;FSM;ipc2023_FSM;satisficing;no;solved;20;20;valid
+I5;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;20;20;valid
+I5;FTS;ipc2023_fts_ms_opt;optimal;no;solved;20;20;valid
+I5;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;20;20;valid
+I5;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+I5;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;20;20;valid
+I5;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I5;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;20;20;valid
+I5;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;20;20;valid
+I5;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;20;20;valid
+I5;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;20;20;valid
+I5;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;20;20;valid
+I5;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;20;20;valid
+I5;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I5;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;20;20;valid
+I5;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I5;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;20;20;valid
+I5;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;20;20;valid
+I5;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;20;20;valid
+I5;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;20;20;valid
+I5;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;20;20;valid
+I5;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;20;20;valid
+I5;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;20;20;valid
+I5;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;20;20;valid
+I5;LAMA;lama;satisficing;no;solved;20;20;valid
+I5;LAMA;lama-first;satisficing;no;solved;20;20;valid
+I5;Levitron;ipc2023_levitron_agl;satisficing;no;solved;20;20;valid
+I5;Levitron;ipc2023_levitron_sat;satisficing;no;solved;20;20;valid
+I5;LPG-TD;lpg-td;satisficing;yes;solved;20;20;valid
+I5;Metric-FF;metric-ff;satisficing;yes;solved;20;20;valid
+I5;Metric-FF;metric-ff-2.0;satisficing;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;20;20;valid
+I5;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;20;20;valid
+I5;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;20;20;valid
+I5;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;20;20;valid
+I5;nplanning;nplanning-agl;satisficing;yes;solved;20;20;valid
+I5;nplanning;nplanning-sat;satisficing;yes;solved;20;20;valid
+I5;Odin;ipc2023_odin;optimal;no;solved;20;20;valid
+I5;OMTPlan;omtplan-opt;optimal;yes;solved;20;20;valid
+I5;OMTPlan;omtplan-sat;satisficing;yes;solved;20;20;valid
+I5;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;20;20;valid
+I5;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;20;20;valid
+I5;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I5;Panino;panino-agile;satisficing;yes;solved;20;20;valid
+I5;Panino;panino-sat;satisficing;yes;solved;20;20;valid
+I5;PATTY;patty-agl;satisficing;yes;solved;22;22;valid
+I5;PATTY;patty-sat;satisficing;yes;solved;20;20;valid
+I5;PATTYINT;pattyint-agl;satisficing;yes;solved;20;20;valid
+I5;PlanForge;planforge-gbfs;satisficing;yes;solved;20;20;valid
+I5;PlanForge;planforge-opt;optimal;yes;solved;20;20;valid
+I5;POPF;popf;satisficing;yes;timeout;-;-;-
+I5;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;20;20;valid
+I5;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;20;20;valid
+I5;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I5;Ragnarok;ipc2023_ragnarok;optimal;no;solved;20;20;valid
+I5;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;20;20;valid
+I5;Scorpion;scorpion;optimal;no;solved;20;20;valid
+I5;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;20;20;valid
+I5;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;20;20;valid
+I5;SMTPlan;smtplan;satisficing;yes;solved;20;20;valid
+I5;Spock;ipc2023_spock;satisficing;no;solved;20;20;valid
+I5;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;20;20;valid
+I5;SymK;ipc2023_symk;optimal;no;solved;20;20;valid
+I5;TamerLite;tamerlite-agl;satisficing;yes;solved;20;20;valid
+I5;TamerLite;tamerlite-sat;satisficing;yes;solved;20;20;valid
+I5;Tempest;tempest-sat;satisficing;yes;solved;20;20;valid
+I5;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;20;20;valid
+I5;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;20;20;valid
+I5;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;20;20;valid
+I5;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;20;20;valid
+I5;Tyr;tyr-gbfs;satisficing;yes;solved;20;20;valid
+I5;Tyr;tyr-lift;satisficing;yes;solved;20;20;valid
+I5;Tyr;tyr-opt;optimal;yes;solved;20;20;valid
+I6;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;83;83;valid
+I6;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;83;83;valid
+I6;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I6;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;83;83;valid
+I6;Cerberus;cerberus-sat;satisficing;no;solved;83;83;valid
+I6;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;83;83;valid
+I6;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;83;83;valid
+I6;Complementary;ipc2023_complementary;optimal;no;solved;83;83;valid
+I6;Count Downward;cd-agl;satisficing;yes;solved;83;83;valid
+I6;Count Downward;cd-opt;optimal;yes;solved;83;83;valid
+I6;Count Downward;cd-sat;satisficing;yes;solved;83;83;valid
+I6;Count Downward Together;cdt-opt;optimal;yes;solved;83;83;valid
+I6;Dalai;ipc2023_dalai_agl;satisficing;no;solved;83;83;valid
+I6;Dalai;ipc2023_dalai_opt;optimal;no;solved;83;83;valid
+I6;Dalai;ipc2023_dalai_sat;satisficing;no;solved;83;83;valid
+I6;DecAbStar;ipc2023_decabstar;optimal;no;solved;83;83;valid
+I6;DecStar;ipc2023_decstar_agl;satisficing;no;solved;83;83;valid
+I6;DecStar;ipc2023_decstar_opt;optimal;no;solved;83;83;valid
+I6;DecStar;ipc2023_decstar_sat;satisficing;no;solved;83;83;valid
+I6;Delfi;delfi;optimal;no;solved;83;83;valid
+I6;DiSCO;ipc2023_disco_agl;satisficing;no;solved;104;104;valid
+I6;DiSCO;ipc2023_disco_sat;satisficing;no;solved;83;83;valid
+I6;DoFri;ipc2023_dofri;optimal;no;solved;83;83;valid
+I6;DOM;ipc2023_dom_opt;optimal;no;solved;83;83;valid
+I6;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;83;83;valid
+I6;ENHSP;enhsp;satisficing;yes;solved;104;104;valid
+I6;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;83;83;valid
+I6;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;83;83;valid
+I6;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;83;83;valid
+I6;FF;ff;satisficing;no;solved;83;83;valid
+I6;FSM;ipc2023_FSM;satisficing;no;solved;117;117;valid
+I6;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;83;83;valid
+I6;FTS;ipc2023_fts_ms_opt;optimal;no;solved;83;83;valid
+I6;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;83;83;valid
+I6;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+I6;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;83;83;valid
+I6;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I6;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;83;83;valid
+I6;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;83;83;valid
+I6;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;83;83;valid
+I6;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;83;83;valid
+I6;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;83;83;valid
+I6;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;83;83;valid
+I6;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I6;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;83;83;valid
+I6;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I6;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;83;83;valid
+I6;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;83;83;valid
+I6;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;83;83;valid
+I6;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;83;83;valid
+I6;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;83;83;valid
+I6;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;83;83;valid
+I6;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;83;83;valid
+I6;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;106;106;valid
+I6;LAMA;lama;satisficing;no;solved;83;83;valid
+I6;LAMA;lama-first;satisficing;no;solved;83;83;valid
+I6;Levitron;ipc2023_levitron_agl;satisficing;no;solved;83;83;valid
+I6;Levitron;ipc2023_levitron_sat;satisficing;no;solved;83;83;valid
+I6;LPG-TD;lpg-td;satisficing;yes;solved;251;251;valid
+I6;Metric-FF;metric-ff;satisficing;yes;solved;83;83;valid
+I6;Metric-FF;metric-ff-2.0;satisficing;yes;solved;83;83;valid
+I6;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;83;83;valid
+I6;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;83;83;valid
+I6;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;83;83;valid
+I6;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;83;83;valid
+I6;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;99;99;valid
+I6;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;103;103;valid
+I6;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;99;99;valid
+I6;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;83;83;valid
+I6;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;83;83;valid
+I6;nplanning;nplanning-agl;satisficing;yes;solved;83;83;valid
+I6;nplanning;nplanning-sat;satisficing;yes;solved;83;83;valid
+I6;Odin;ipc2023_odin;optimal;no;solved;83;83;valid
+I6;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I6;OMTPlan;omtplan-sat;satisficing;yes;timeout;-;-;-
+I6;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;104;104;valid
+I6;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;104;104;valid
+I6;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I6;Panino;panino-agile;satisficing;yes;solved;146;146;valid
+I6;Panino;panino-sat;satisficing;yes;solved;83;83;valid
+I6;PATTY;patty-agl;satisficing;yes;solved;124;124;valid
+I6;PATTY;patty-sat;satisficing;yes;solved;83;83;valid
+I6;PATTYINT;pattyint-agl;satisficing;yes;solved;216;216;valid
+I6;PlanForge;planforge-gbfs;satisficing;yes;solved;83;83;valid
+I6;PlanForge;planforge-opt;optimal;yes;solved;83;83;valid
+I6;POPF;popf;satisficing;yes;timeout;-;-;-
+I6;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;83;83;valid
+I6;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;83;83;valid
+I6;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I6;Ragnarok;ipc2023_ragnarok;optimal;no;solved;83;83;valid
+I6;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;83;83;valid
+I6;Scorpion;scorpion;optimal;no;solved;83;83;valid
+I6;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;83;83;valid
+I6;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;83;83;valid
+I6;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I6;Spock;ipc2023_spock;satisficing;no;solved;83;83;valid
+I6;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;83;83;valid
+I6;SymK;ipc2023_symk;optimal;no;solved;83;83;valid
+I6;TamerLite;tamerlite-agl;satisficing;yes;solved;83;83;valid
+I6;TamerLite;tamerlite-sat;satisficing;yes;solved;83;83;valid
+I6;Tempest;tempest-sat;satisficing;yes;solved;83;83;valid
+I6;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;83;83;valid
+I6;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;83;83;valid
+I6;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;83;83;valid
+I6;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;83;83;valid
+I6;Tyr;tyr-gbfs;satisficing;yes;solved;83;83;valid
+I6;Tyr;tyr-lift;satisficing;yes;solved;83;83;valid
+I6;Tyr;tyr-opt;optimal;yes;solved;83;83;valid
+I7;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;22;22;valid
+I7;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;22;22;valid
+I7;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I7;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;22;22;valid
+I7;Cerberus;cerberus-sat;satisficing;no;solved;22;22;valid
+I7;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;22;22;valid
+I7;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;22;22;valid
+I7;Complementary;ipc2023_complementary;optimal;no;solved;22;22;valid
+I7;Count Downward;cd-agl;satisficing;yes;solved;22;22;valid
+I7;Count Downward;cd-opt;optimal;yes;solved;22;22;valid
+I7;Count Downward;cd-sat;satisficing;yes;solved;22;22;valid
+I7;Count Downward Together;cdt-opt;optimal;yes;solved;22;22;valid
+I7;Dalai;ipc2023_dalai_agl;satisficing;no;solved;22;22;valid
+I7;Dalai;ipc2023_dalai_opt;optimal;no;solved;22;22;valid
+I7;Dalai;ipc2023_dalai_sat;satisficing;no;solved;22;22;valid
+I7;DecAbStar;ipc2023_decabstar;optimal;no;solved;22;22;valid
+I7;DecStar;ipc2023_decstar_agl;satisficing;no;solved;22;22;valid
+I7;DecStar;ipc2023_decstar_opt;optimal;no;solved;22;22;valid
+I7;DecStar;ipc2023_decstar_sat;satisficing;no;solved;22;22;valid
+I7;Delfi;delfi;optimal;no;solved;22;22;valid
+I7;DiSCO;ipc2023_disco_agl;satisficing;no;solved;22;22;valid
+I7;DiSCO;ipc2023_disco_sat;satisficing;no;solved;22;22;valid
+I7;DoFri;ipc2023_dofri;optimal;no;solved;22;22;valid
+I7;DOM;ipc2023_dom_opt;optimal;no;solved;22;22;valid
+I7;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;22;22;valid
+I7;ENHSP;enhsp;satisficing;yes;solved;22;22;valid
+I7;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;22;22;valid
+I7;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;22;22;valid
+I7;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;22;22;valid
+I7;FF;ff;satisficing;no;solved;22;22;valid
+I7;FSM;ipc2023_FSM;satisficing;no;solved;22;22;valid
+I7;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;22;22;valid
+I7;FTS;ipc2023_fts_ms_opt;optimal;no;solved;22;22;valid
+I7;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;22;22;valid
+I7;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;22;22;valid
+I7;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;22;22;valid
+I7;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;22;22;valid
+I7;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;22;22;valid
+I7;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;22;22;valid
+I7;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;22;22;valid
+I7;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;22;22;valid
+I7;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;22;22;valid
+I7;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;22;22;valid
+I7;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I7;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;22;22;valid
+I7;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I7;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;22;22;valid
+I7;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;22;22;valid
+I7;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;22;22;valid
+I7;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;22;22;valid
+I7;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;22;22;valid
+I7;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;22;22;valid
+I7;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;22;22;valid
+I7;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;22;22;valid
+I7;LAMA;lama;satisficing;no;solved;22;22;valid
+I7;LAMA;lama-first;satisficing;no;solved;22;22;valid
+I7;Levitron;ipc2023_levitron_agl;satisficing;no;solved;22;22;valid
+I7;Levitron;ipc2023_levitron_sat;satisficing;no;solved;22;22;valid
+I7;LPG-TD;lpg-td;satisficing;yes;solved;22;22;valid
+I7;Metric-FF;metric-ff;satisficing;yes;solved;22;22;valid
+I7;Metric-FF;metric-ff-2.0;satisficing;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;22;22;valid
+I7;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;22;22;valid
+I7;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;22;22;valid
+I7;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;22;22;valid
+I7;nplanning;nplanning-agl;satisficing;yes;solved;22;22;valid
+I7;nplanning;nplanning-sat;satisficing;yes;solved;22;22;valid
+I7;Odin;ipc2023_odin;optimal;no;solved;22;22;valid
+I7;OMTPlan;omtplan-opt;optimal;yes;solved;22;22;valid
+I7;OMTPlan;omtplan-sat;satisficing;yes;solved;22;22;valid
+I7;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;22;22;valid
+I7;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;22;22;valid
+I7;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I7;Panino;panino-agile;satisficing;yes;solved;22;22;valid
+I7;Panino;panino-sat;satisficing;yes;solved;22;22;valid
+I7;PATTY;patty-agl;satisficing;yes;solved;25;25;valid
+I7;PATTY;patty-sat;satisficing;yes;solved;23;23;valid
+I7;PATTYINT;pattyint-agl;satisficing;yes;solved;25;25;valid
+I7;PlanForge;planforge-gbfs;satisficing;yes;solved;22;22;valid
+I7;PlanForge;planforge-opt;optimal;yes;solved;22;22;valid
+I7;POPF;popf;satisficing;yes;timeout;-;-;-
+I7;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;22;22;valid
+I7;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;22;22;valid
+I7;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I7;Ragnarok;ipc2023_ragnarok;optimal;no;solved;22;22;valid
+I7;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;22;22;valid
+I7;Scorpion;scorpion;optimal;no;solved;22;22;valid
+I7;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;22;22;valid
+I7;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;22;22;valid
+I7;SMTPlan;smtplan;satisficing;yes;solved;22;22;valid
+I7;Spock;ipc2023_spock;satisficing;no;solved;22;22;valid
+I7;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;22;22;valid
+I7;SymK;ipc2023_symk;optimal;no;solved;22;22;valid
+I7;TamerLite;tamerlite-agl;satisficing;yes;solved;22;22;valid
+I7;TamerLite;tamerlite-sat;satisficing;yes;solved;22;22;valid
+I7;Tempest;tempest-sat;satisficing;yes;solved;22;22;valid
+I7;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;22;22;valid
+I7;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;22;22;valid
+I7;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;22;22;valid
+I7;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;22;22;valid
+I7;Tyr;tyr-gbfs;satisficing;yes;solved;22;22;valid
+I7;Tyr;tyr-lift;satisficing;yes;solved;22;22;valid
+I7;Tyr;tyr-opt;optimal;yes;solved;22;22;valid
+I8;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;49;49;valid
+I8;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;35;35;valid
+I8;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I8;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;35;35;valid
+I8;Cerberus;cerberus-sat;satisficing;no;solved;35;35;valid
+I8;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;61;61;valid
+I8;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;35;35;valid
+I8;Complementary;ipc2023_complementary;optimal;no;solved;35;35;valid
+I8;Count Downward;cd-agl;satisficing;yes;solved;47;47;valid
+I8;Count Downward;cd-opt;optimal;yes;solved;35;35;valid
+I8;Count Downward;cd-sat;satisficing;yes;solved;35;35;valid
+I8;Count Downward Together;cdt-opt;optimal;yes;solved;35;35;valid
+I8;Dalai;ipc2023_dalai_agl;satisficing;no;solved;59;59;valid
+I8;Dalai;ipc2023_dalai_opt;optimal;no;solved;35;35;valid
+I8;Dalai;ipc2023_dalai_sat;satisficing;no;solved;35;35;valid
+I8;DecAbStar;ipc2023_decabstar;optimal;no;solved;35;35;valid
+I8;DecStar;ipc2023_decstar_agl;satisficing;no;solved;46;46;valid
+I8;DecStar;ipc2023_decstar_opt;optimal;no;solved;35;35;valid
+I8;DecStar;ipc2023_decstar_sat;satisficing;no;solved;35;35;valid
+I8;Delfi;delfi;optimal;no;solved;35;35;valid
+I8;DiSCO;ipc2023_disco_agl;satisficing;no;solved;83;83;valid
+I8;DiSCO;ipc2023_disco_sat;satisficing;no;solved;35;35;valid
+I8;DoFri;ipc2023_dofri;optimal;no;solved;35;35;valid
+I8;DOM;ipc2023_dom_opt;optimal;no;solved;35;35;valid
+I8;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;49;49;valid
+I8;ENHSP;enhsp;satisficing;yes;timeout;-;-;-
+I8;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;46;46;valid
+I8;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;35;35;valid
+I8;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;35;35;valid
+I8;FF;ff;satisficing;no;solved;55;55;valid
+I8;FSM;ipc2023_FSM;satisficing;no;solved;228;228;valid
+I8;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;50;50;valid
+I8;FTS;ipc2023_fts_ms_opt;optimal;no;solved;35;35;valid
+I8;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;35;35;valid
+I8;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;58;58;valid
+I8;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;35;35;valid
+I8;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;58;58;valid
+I8;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;58;58;valid
+I8;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;35;35;valid
+I8;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;58;58;valid
+I8;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;49;49;valid
+I8;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;35;35;valid
+I8;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;49;49;valid
+I8;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I8;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;35;35;valid
+I8;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I8;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;35;35;valid
+I8;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;71;71;valid
+I8;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;49;49;valid
+I8;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;35;35;valid
+I8;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;46;46;valid
+I8;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;46;46;valid
+I8;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;35;35;valid
+I8;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;82;82;valid
+I8;LAMA;lama;satisficing;no;solved;35;35;valid
+I8;LAMA;lama-first;satisficing;no;solved;46;46;valid
+I8;Levitron;ipc2023_levitron_agl;satisficing;no;solved;46;46;valid
+I8;Levitron;ipc2023_levitron_sat;satisficing;no;solved;35;35;valid
+I8;LPG-TD;lpg-td;satisficing;yes;solved;132;132;valid
+I8;Metric-FF;metric-ff;satisficing;yes;solved;87;87;valid
+I8;Metric-FF;metric-ff-2.0;satisficing;yes;solved;87;87;valid
+I8;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;35;35;valid
+I8;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;35;35;valid
+I8;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;35;35;valid
+I8;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;35;35;valid
+I8;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;timeout;-;-;-
+I8;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;timeout;-;-;-
+I8;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;timeout;-;-;-
+I8;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;49;49;valid
+I8;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;35;35;valid
+I8;nplanning;nplanning-agl;satisficing;yes;solved;49;49;valid
+I8;nplanning;nplanning-sat;satisficing;yes;solved;49;49;valid
+I8;Odin;ipc2023_odin;optimal;no;solved;35;35;valid
+I8;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I8;OMTPlan;omtplan-sat;satisficing;yes;solved;35;35;valid
+I8;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;timeout;-;-;-
+I8;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;out-of-memory;-;-;-
+I8;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I8;Panino;panino-agile;satisficing;yes;solved;123;123;valid
+I8;Panino;panino-sat;satisficing;yes;solved;35;35;valid
+I8;PATTY;patty-agl;satisficing;yes;solved;90;90;valid
+I8;PATTY;patty-sat;satisficing;yes;solved;37;37;valid
+I8;PATTYINT;pattyint-agl;satisficing;yes;solved;77;77;valid
+I8;PlanForge;planforge-gbfs;satisficing;yes;solved;55;55;valid
+I8;PlanForge;planforge-opt;optimal;yes;solved;35;35;valid
+I8;POPF;popf;satisficing;yes;timeout;-;-;-
+I8;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;46;46;valid
+I8;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;35;35;valid
+I8;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I8;Ragnarok;ipc2023_ragnarok;optimal;no;solved;35;35;valid
+I8;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;35;35;valid
+I8;Scorpion;scorpion;optimal;no;solved;35;35;valid
+I8;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;46;46;valid
+I8;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;35;35;valid
+I8;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I8;Spock;ipc2023_spock;satisficing;no;solved;35;35;valid
+I8;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;35;35;valid
+I8;SymK;ipc2023_symk;optimal;no;solved;35;35;valid
+I8;TamerLite;tamerlite-agl;satisficing;yes;solved;40;40;valid
+I8;TamerLite;tamerlite-sat;satisficing;yes;solved;35;35;valid
+I8;Tempest;tempest-sat;satisficing;yes;solved;55;55;valid
+I8;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;61;61;valid
+I8;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;35;35;valid
+I8;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;61;61;valid
+I8;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;35;35;valid
+I8;Tyr;tyr-gbfs;satisficing;yes;solved;35;35;valid
+I8;Tyr;tyr-lift;satisficing;yes;timeout;-;-;-
+I8;Tyr;tyr-opt;optimal;yes;solved;35;35;valid
+I9;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;69;69;valid
+I9;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;65;65;valid
+I9;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I9;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;65;65;valid
+I9;Cerberus;cerberus-sat;satisficing;no;solved;65;65;valid
+I9;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;65;65;valid
+I9;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;65;65;valid
+I9;Complementary;ipc2023_complementary;optimal;no;solved;65;65;valid
+I9;Count Downward;cd-agl;satisficing;yes;solved;65;65;valid
+I9;Count Downward;cd-opt;optimal;yes;solved;65;65;valid
+I9;Count Downward;cd-sat;satisficing;yes;solved;65;65;valid
+I9;Count Downward Together;cdt-opt;optimal;yes;solved;65;65;valid
+I9;Dalai;ipc2023_dalai_agl;satisficing;no;solved;65;65;valid
+I9;Dalai;ipc2023_dalai_opt;optimal;no;solved;65;65;valid
+I9;Dalai;ipc2023_dalai_sat;satisficing;no;solved;65;65;valid
+I9;DecAbStar;ipc2023_decabstar;optimal;no;solved;65;65;valid
+I9;DecStar;ipc2023_decstar_agl;satisficing;no;solved;65;65;valid
+I9;DecStar;ipc2023_decstar_opt;optimal;no;solved;65;65;valid
+I9;DecStar;ipc2023_decstar_sat;satisficing;no;solved;65;65;valid
+I9;Delfi;delfi;optimal;no;solved;65;65;valid
+I9;DiSCO;ipc2023_disco_agl;satisficing;no;solved;69;69;valid
+I9;DiSCO;ipc2023_disco_sat;satisficing;no;solved;65;65;valid
+I9;DoFri;ipc2023_dofri;optimal;no;solved;65;65;valid
+I9;DOM;ipc2023_dom_opt;optimal;no;solved;65;65;valid
+I9;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;65;65;valid
+I9;ENHSP;enhsp;satisficing;yes;solved;120;120;valid
+I9;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;65;65;valid
+I9;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;65;65;valid
+I9;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;65;65;valid
+I9;FF;ff;satisficing;no;solved;113;113;valid
+I9;FSM;ipc2023_FSM;satisficing;no;solved;184;184;valid
+I9;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;65;65;valid
+I9;FTS;ipc2023_fts_ms_opt;optimal;no;solved;65;65;valid
+I9;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;65;65;valid
+I9;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;98;98;valid
+I9;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;65;65;valid
+I9;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;98;98;valid
+I9;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;98;98;valid
+I9;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;65;65;valid
+I9;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;98;98;valid
+I9;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;65;65;valid
+I9;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;65;65;valid
+I9;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;65;65;valid
+I9;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I9;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;65;65;valid
+I9;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I9;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;65;65;valid
+I9;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;89;89;valid
+I9;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;66;66;valid
+I9;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;65;65;valid
+I9;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;65;65;valid
+I9;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;65;65;valid
+I9;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;65;65;valid
+I9;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;73;73;valid
+I9;LAMA;lama;satisficing;no;solved;65;65;valid
+I9;LAMA;lama-first;satisficing;no;solved;65;65;valid
+I9;Levitron;ipc2023_levitron_agl;satisficing;no;solved;65;65;valid
+I9;Levitron;ipc2023_levitron_sat;satisficing;no;solved;65;65;valid
+I9;LPG-TD;lpg-td;satisficing;yes;solved;65;65;valid
+I9;Metric-FF;metric-ff;satisficing;yes;solved;138;138;valid
+I9;Metric-FF;metric-ff-2.0;satisficing;yes;solved;138;138;valid
+I9;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;65;65;valid
+I9;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;65;65;valid
+I9;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;65;65;valid
+I9;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;65;65;valid
+I9;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;timeout;-;-;-
+I9;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;timeout;-;-;-
+I9;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;timeout;-;-;-
+I9;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;69;69;valid
+I9;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;65;65;valid
+I9;nplanning;nplanning-agl;satisficing;yes;solved;65;65;valid
+I9;nplanning;nplanning-sat;satisficing;yes;solved;65;65;valid
+I9;Odin;ipc2023_odin;optimal;no;solved;65;65;valid
+I9;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I9;OMTPlan;omtplan-sat;satisficing;yes;timeout;-;-;-
+I9;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;timeout;-;-;-
+I9;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;out-of-memory;-;-;-
+I9;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I9;Panino;panino-agile;satisficing;yes;solved;118;118;valid
+I9;Panino;panino-sat;satisficing;yes;solved;65;65;valid
+I9;PATTY;patty-agl;satisficing;yes;solved;71;71;valid
+I9;PATTY;patty-sat;satisficing;yes;solved;70;70;valid
+I9;PATTYINT;pattyint-agl;satisficing;yes;solved;84;84;valid
+I9;PlanForge;planforge-gbfs;satisficing;yes;solved;113;113;valid
+I9;PlanForge;planforge-opt;optimal;yes;solved;65;65;valid
+I9;POPF;popf;satisficing;yes;timeout;-;-;-
+I9;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;65;65;valid
+I9;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;65;65;valid
+I9;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I9;Ragnarok;ipc2023_ragnarok;optimal;no;solved;65;65;valid
+I9;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;65;65;valid
+I9;Scorpion;scorpion;optimal;no;solved;65;65;valid
+I9;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;65;65;valid
+I9;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;65;65;valid
+I9;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I9;Spock;ipc2023_spock;satisficing;no;solved;65;65;valid
+I9;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;65;65;valid
+I9;SymK;ipc2023_symk;optimal;no;solved;65;65;valid
+I9;TamerLite;tamerlite-agl;satisficing;yes;solved;65;65;valid
+I9;TamerLite;tamerlite-sat;satisficing;yes;solved;65;65;valid
+I9;Tempest;tempest-sat;satisficing;yes;solved;89;89;valid
+I9;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;65;65;valid
+I9;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;65;65;valid
+I9;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;65;65;valid
+I9;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;65;65;valid
+I9;Tyr;tyr-gbfs;satisficing;yes;solved;65;65;valid
+I9;Tyr;tyr-lift;satisficing;yes;timeout;-;-;-
+I9;Tyr;tyr-opt;optimal;yes;solved;65;65;valid
+I10;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;63;63;valid
+I10;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;59;59;valid
+I10;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I10;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;59;59;valid
+I10;Cerberus;cerberus-sat;satisficing;no;solved;59;59;valid
+I10;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;61;61;valid
+I10;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;59;59;valid
+I10;Complementary;ipc2023_complementary;optimal;no;solved;59;59;valid
+I10;Count Downward;cd-agl;satisficing;yes;solved;61;61;valid
+I10;Count Downward;cd-opt;optimal;yes;solved;59;59;valid
+I10;Count Downward;cd-sat;satisficing;yes;solved;59;59;valid
+I10;Count Downward Together;cdt-opt;optimal;yes;solved;59;59;valid
+I10;Dalai;ipc2023_dalai_agl;satisficing;no;solved;59;59;valid
+I10;Dalai;ipc2023_dalai_opt;optimal;no;solved;59;59;valid
+I10;Dalai;ipc2023_dalai_sat;satisficing;no;solved;59;59;valid
+I10;DecAbStar;ipc2023_decabstar;optimal;no;solved;59;59;valid
+I10;DecStar;ipc2023_decstar_agl;satisficing;no;solved;61;61;valid
+I10;DecStar;ipc2023_decstar_opt;optimal;no;solved;59;59;valid
+I10;DecStar;ipc2023_decstar_sat;satisficing;no;solved;59;59;valid
+I10;Delfi;delfi;optimal;no;solved;59;59;valid
+I10;DiSCO;ipc2023_disco_agl;satisficing;no;solved;61;61;valid
+I10;DiSCO;ipc2023_disco_sat;satisficing;no;solved;59;59;valid
+I10;DoFri;ipc2023_dofri;optimal;no;solved;59;59;valid
+I10;DOM;ipc2023_dom_opt;optimal;no;solved;59;59;valid
+I10;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;89;89;valid
+I10;ENHSP;enhsp;satisficing;yes;timeout;-;-;-
+I10;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;61;61;valid
+I10;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;59;59;valid
+I10;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;59;59;valid
+I10;FF;ff;satisficing;no;solved;109;109;valid
+I10;FSM;ipc2023_FSM;satisficing;no;solved;182;182;valid
+I10;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;61;61;valid
+I10;FTS;ipc2023_fts_ms_opt;optimal;no;solved;59;59;valid
+I10;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;59;59;valid
+I10;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;86;86;valid
+I10;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;59;59;valid
+I10;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;86;86;valid
+I10;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;86;86;valid
+I10;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;59;59;valid
+I10;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;86;86;valid
+I10;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;61;61;valid
+I10;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;59;59;valid
+I10;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;61;61;valid
+I10;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I10;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;59;59;valid
+I10;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I10;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;59;59;valid
+I10;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;66;66;valid
+I10;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;86;86;valid
+I10;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;59;59;valid
+I10;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;61;61;valid
+I10;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;61;61;valid
+I10;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;59;59;valid
+I10;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;62;62;valid
+I10;LAMA;lama;satisficing;no;solved;59;59;valid
+I10;LAMA;lama-first;satisficing;no;solved;61;61;valid
+I10;Levitron;ipc2023_levitron_agl;satisficing;no;solved;61;61;valid
+I10;Levitron;ipc2023_levitron_sat;satisficing;no;solved;59;59;valid
+I10;LPG-TD;lpg-td;satisficing;yes;solved;101;101;valid
+I10;Metric-FF;metric-ff;satisficing;yes;solved;111;111;valid
+I10;Metric-FF;metric-ff-2.0;satisficing;yes;solved;111;111;valid
+I10;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;59;59;valid
+I10;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;59;59;valid
+I10;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;59;59;valid
+I10;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;59;59;valid
+I10;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;timeout;-;-;-
+I10;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;timeout;-;-;-
+I10;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;timeout;-;-;-
+I10;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;63;63;valid
+I10;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;59;59;valid
+I10;nplanning;nplanning-agl;satisficing;yes;solved;61;61;valid
+I10;nplanning;nplanning-sat;satisficing;yes;solved;61;61;valid
+I10;Odin;ipc2023_odin;optimal;no;solved;59;59;valid
+I10;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I10;OMTPlan;omtplan-sat;satisficing;yes;timeout;-;-;-
+I10;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;timeout;-;-;-
+I10;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;out-of-memory;-;-;-
+I10;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I10;Panino;panino-agile;satisficing;yes;solved;103;103;valid
+I10;Panino;panino-sat;satisficing;yes;solved;59;59;valid
+I10;PATTY;patty-agl;satisficing;yes;solved;69;69;valid
+I10;PATTY;patty-sat;satisficing;yes;solved;61;61;valid
+I10;PATTYINT;pattyint-agl;satisficing;yes;solved;95;95;valid
+I10;PlanForge;planforge-gbfs;satisficing;yes;solved;109;109;valid
+I10;PlanForge;planforge-opt;optimal;yes;solved;59;59;valid
+I10;POPF;popf;satisficing;yes;timeout;-;-;-
+I10;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;61;61;valid
+I10;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;61;61;valid
+I10;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I10;Ragnarok;ipc2023_ragnarok;optimal;no;solved;59;59;valid
+I10;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;59;59;valid
+I10;Scorpion;scorpion;optimal;no;solved;59;59;valid
+I10;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;61;61;valid
+I10;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;59;59;valid
+I10;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I10;Spock;ipc2023_spock;satisficing;no;solved;59;59;valid
+I10;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;59;59;valid
+I10;SymK;ipc2023_symk;optimal;no;solved;59;59;valid
+I10;TamerLite;tamerlite-agl;satisficing;yes;solved;61;61;valid
+I10;TamerLite;tamerlite-sat;satisficing;yes;solved;59;59;valid
+I10;Tempest;tempest-sat;satisficing;yes;solved;109;109;valid
+I10;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;61;61;valid
+I10;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;59;59;valid
+I10;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;61;61;valid
+I10;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;59;59;valid
+I10;Tyr;tyr-gbfs;satisficing;yes;solved;59;59;valid
+I10;Tyr;tyr-lift;satisficing;yes;timeout;-;-;-
+I10;Tyr;tyr-opt;optimal;yes;solved;59;59;valid
+I11;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;49;49;valid
+I11;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;35;35;valid
+I11;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I11;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;35;35;valid
+I11;Cerberus;cerberus-sat;satisficing;no;solved;35;35;valid
+I11;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;65;65;valid
+I11;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;35;35;valid
+I11;Complementary;ipc2023_complementary;optimal;no;solved;35;35;valid
+I11;Count Downward;cd-agl;satisficing;yes;solved;50;50;valid
+I11;Count Downward;cd-opt;optimal;yes;solved;35;35;valid
+I11;Count Downward;cd-sat;satisficing;yes;solved;35;35;valid
+I11;Count Downward Together;cdt-opt;optimal;yes;solved;35;35;valid
+I11;Dalai;ipc2023_dalai_agl;satisficing;no;solved;65;65;valid
+I11;Dalai;ipc2023_dalai_opt;optimal;no;solved;35;35;valid
+I11;Dalai;ipc2023_dalai_sat;satisficing;no;solved;35;35;valid
+I11;DecAbStar;ipc2023_decabstar;optimal;no;solved;35;35;valid
+I11;DecStar;ipc2023_decstar_agl;satisficing;no;solved;49;49;valid
+I11;DecStar;ipc2023_decstar_opt;optimal;no;solved;35;35;valid
+I11;DecStar;ipc2023_decstar_sat;satisficing;no;solved;35;35;valid
+I11;Delfi;delfi;optimal;no;solved;35;35;valid
+I11;DiSCO;ipc2023_disco_agl;satisficing;no;solved;91;91;valid
+I11;DiSCO;ipc2023_disco_sat;satisficing;no;solved;35;35;valid
+I11;DoFri;ipc2023_dofri;optimal;no;solved;35;35;valid
+I11;DOM;ipc2023_dom_opt;optimal;no;solved;35;35;valid
+I11;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;51;51;valid
+I11;ENHSP;enhsp;satisficing;yes;solved;165;165;valid
+I11;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;49;49;valid
+I11;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;35;35;valid
+I11;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;35;35;valid
+I11;FF;ff;satisficing;no;solved;43;43;valid
+I11;FSM;ipc2023_FSM;satisficing;no;solved;182;182;valid
+I11;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;50;50;valid
+I11;FTS;ipc2023_fts_ms_opt;optimal;no;solved;35;35;valid
+I11;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;35;35;valid
+I11;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;52;52;valid
+I11;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;35;35;valid
+I11;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;52;52;valid
+I11;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;52;52;valid
+I11;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;35;35;valid
+I11;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;52;52;valid
+I11;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;49;49;valid
+I11;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;35;35;valid
+I11;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;49;49;valid
+I11;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I11;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;35;35;valid
+I11;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I11;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;35;35;valid
+I11;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;185;185;valid
+I11;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;59;59;valid
+I11;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;35;35;valid
+I11;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;49;49;valid
+I11;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;65;65;valid
+I11;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;35;35;valid
+I11;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;77;77;valid
+I11;LAMA;lama;satisficing;no;solved;35;35;valid
+I11;LAMA;lama-first;satisficing;no;solved;49;49;valid
+I11;Levitron;ipc2023_levitron_agl;satisficing;no;solved;49;49;valid
+I11;Levitron;ipc2023_levitron_sat;satisficing;no;solved;35;35;valid
+I11;LPG-TD;lpg-td;satisficing;yes;solved;149;149;valid
+I11;Metric-FF;metric-ff;satisficing;yes;solved;43;43;valid
+I11;Metric-FF;metric-ff-2.0;satisficing;yes;solved;43;43;valid
+I11;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;35;35;valid
+I11;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;35;35;valid
+I11;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;35;35;valid
+I11;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;35;35;valid
+I11;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;timeout;-;-;-
+I11;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;timeout;-;-;-
+I11;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;timeout;-;-;-
+I11;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;49;49;valid
+I11;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;35;35;valid
+I11;nplanning;nplanning-agl;satisficing;yes;solved;49;49;valid
+I11;nplanning;nplanning-sat;satisficing;yes;solved;49;49;valid
+I11;Odin;ipc2023_odin;optimal;no;solved;35;35;valid
+I11;OMTPlan;omtplan-opt;optimal;yes;timeout;-;-;-
+I11;OMTPlan;omtplan-sat;satisficing;yes;solved;35;35;valid
+I11;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;timeout;-;-;-
+I11;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;out-of-memory;-;-;-
+I11;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I11;Panino;panino-agile;satisficing;yes;solved;119;119;valid
+I11;Panino;panino-sat;satisficing;yes;solved;35;35;valid
+I11;PATTY;patty-agl;satisficing;yes;solved;53;53;valid
+I11;PATTY;patty-sat;satisficing;yes;solved;35;35;valid
+I11;PATTYINT;pattyint-agl;satisficing;yes;solved;77;77;valid
+I11;PlanForge;planforge-gbfs;satisficing;yes;solved;49;49;valid
+I11;PlanForge;planforge-opt;optimal;yes;solved;35;35;valid
+I11;POPF;popf;satisficing;yes;timeout;-;-;-
+I11;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;49;49;valid
+I11;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;47;47;valid
+I11;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I11;Ragnarok;ipc2023_ragnarok;optimal;no;solved;35;35;valid
+I11;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;35;35;valid
+I11;Scorpion;scorpion;optimal;no;solved;35;35;valid
+I11;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;49;49;valid
+I11;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;35;35;valid
+I11;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+I11;Spock;ipc2023_spock;satisficing;no;solved;35;35;valid
+I11;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;35;35;valid
+I11;SymK;ipc2023_symk;optimal;no;solved;35;35;valid
+I11;TamerLite;tamerlite-agl;satisficing;yes;solved;43;43;valid
+I11;TamerLite;tamerlite-sat;satisficing;yes;solved;35;35;valid
+I11;Tempest;tempest-sat;satisficing;yes;solved;59;59;valid
+I11;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;65;65;valid
+I11;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;35;35;valid
+I11;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;65;65;valid
+I11;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;35;35;valid
+I11;Tyr;tyr-gbfs;satisficing;yes;solved;35;35;valid
+I11;Tyr;tyr-lift;satisficing;yes;timeout;-;-;-
+I11;Tyr;tyr-opt;optimal;yes;solved;35;35;valid
+I12;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;22;22;valid
+I12;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;22;22;valid
+I12;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+I12;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;22;22;valid
+I12;Cerberus;cerberus-sat;satisficing;no;solved;22;22;valid
+I12;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;22;22;valid
+I12;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;22;22;valid
+I12;Complementary;ipc2023_complementary;optimal;no;solved;22;22;valid
+I12;Count Downward;cd-agl;satisficing;yes;solved;22;22;valid
+I12;Count Downward;cd-opt;optimal;yes;solved;22;22;valid
+I12;Count Downward;cd-sat;satisficing;yes;solved;22;22;valid
+I12;Count Downward Together;cdt-opt;optimal;yes;solved;22;22;valid
+I12;Dalai;ipc2023_dalai_agl;satisficing;no;solved;22;22;valid
+I12;Dalai;ipc2023_dalai_opt;optimal;no;solved;22;22;valid
+I12;Dalai;ipc2023_dalai_sat;satisficing;no;solved;22;22;valid
+I12;DecAbStar;ipc2023_decabstar;optimal;no;solved;22;22;valid
+I12;DecStar;ipc2023_decstar_agl;satisficing;no;solved;22;22;valid
+I12;DecStar;ipc2023_decstar_opt;optimal;no;solved;22;22;valid
+I12;DecStar;ipc2023_decstar_sat;satisficing;no;solved;22;22;valid
+I12;Delfi;delfi;optimal;no;solved;22;22;valid
+I12;DiSCO;ipc2023_disco_agl;satisficing;no;solved;22;22;valid
+I12;DiSCO;ipc2023_disco_sat;satisficing;no;solved;22;22;valid
+I12;DoFri;ipc2023_dofri;optimal;no;solved;22;22;valid
+I12;DOM;ipc2023_dom_opt;optimal;no;solved;22;22;valid
+I12;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;22;22;valid
+I12;ENHSP;enhsp;satisficing;yes;solved;22;22;valid
+I12;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;22;22;valid
+I12;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;22;22;valid
+I12;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;22;22;valid
+I12;FF;ff;satisficing;no;solved;22;22;valid
+I12;FSM;ipc2023_FSM;satisficing;no;solved;22;22;valid
+I12;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;22;22;valid
+I12;FTS;ipc2023_fts_ms_opt;optimal;no;solved;22;22;valid
+I12;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;22;22;valid
+I12;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+I12;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;22;22;valid
+I12;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+I12;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;22;22;valid
+I12;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;22;22;valid
+I12;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;22;22;valid
+I12;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;22;22;valid
+I12;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;22;22;valid
+I12;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;22;22;valid
+I12;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+I12;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;22;22;valid
+I12;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+I12;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;22;22;valid
+I12;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;22;22;valid
+I12;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;22;22;valid
+I12;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;22;22;valid
+I12;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;22;22;valid
+I12;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;22;22;valid
+I12;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;22;22;valid
+I12;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;22;22;valid
+I12;LAMA;lama;satisficing;no;solved;22;22;valid
+I12;LAMA;lama-first;satisficing;no;solved;22;22;valid
+I12;Levitron;ipc2023_levitron_agl;satisficing;no;solved;22;22;valid
+I12;Levitron;ipc2023_levitron_sat;satisficing;no;solved;22;22;valid
+I12;LPG-TD;lpg-td;satisficing;yes;solved;22;22;valid
+I12;Metric-FF;metric-ff;satisficing;yes;solved;22;22;valid
+I12;Metric-FF;metric-ff-2.0;satisficing;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;22;22;valid
+I12;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;22;22;valid
+I12;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;22;22;valid
+I12;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;22;22;valid
+I12;nplanning;nplanning-agl;satisficing;yes;solved;22;22;valid
+I12;nplanning;nplanning-sat;satisficing;yes;solved;22;22;valid
+I12;Odin;ipc2023_odin;optimal;no;solved;22;22;valid
+I12;OMTPlan;omtplan-opt;optimal;yes;solved;22;22;valid
+I12;OMTPlan;omtplan-sat;satisficing;yes;solved;22;22;valid
+I12;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;22;22;valid
+I12;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;22;22;valid
+I12;OPTIC;optic;satisficing;yes;rejected;-;-;-
+I12;Panino;panino-agile;satisficing;yes;solved;22;22;valid
+I12;Panino;panino-sat;satisficing;yes;solved;22;22;valid
+I12;PATTY;patty-agl;satisficing;yes;solved;25;25;valid
+I12;PATTY;patty-sat;satisficing;yes;solved;23;23;valid
+I12;PATTYINT;pattyint-agl;satisficing;yes;solved;24;24;valid
+I12;PlanForge;planforge-gbfs;satisficing;yes;solved;22;22;valid
+I12;PlanForge;planforge-opt;optimal;yes;solved;22;22;valid
+I12;POPF;popf;satisficing;yes;timeout;-;-;-
+I12;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;22;22;valid
+I12;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;22;22;valid
+I12;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+I12;Ragnarok;ipc2023_ragnarok;optimal;no;solved;22;22;valid
+I12;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;22;22;valid
+I12;Scorpion;scorpion;optimal;no;solved;22;22;valid
+I12;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;22;22;valid
+I12;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;22;22;valid
+I12;SMTPlan;smtplan;satisficing;yes;solved;22;22;valid
+I12;Spock;ipc2023_spock;satisficing;no;solved;22;22;valid
+I12;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;22;22;valid
+I12;SymK;ipc2023_symk;optimal;no;solved;22;22;valid
+I12;TamerLite;tamerlite-agl;satisficing;yes;solved;22;22;valid
+I12;TamerLite;tamerlite-sat;satisficing;yes;solved;22;22;valid
+I12;Tempest;tempest-sat;satisficing;yes;solved;22;22;valid
+I12;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;22;22;valid
+I12;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;22;22;valid
+I12;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;22;22;valid
+I12;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;22;22;valid
+I12;Tyr;tyr-gbfs;satisficing;yes;solved;22;22;valid
+I12;Tyr;tyr-lift;satisficing;yes;solved;22;22;valid
+I12;Tyr;tyr-opt;optimal;yes;solved;22;22;valid
+T1;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;16;16;valid
+T1;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;16;16;valid
+T1;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+T1;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;16;16;valid
+T1;Cerberus;cerberus-sat;satisficing;no;solved;16;16;valid
+T1;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;16;16;valid
+T1;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;16;16;valid
+T1;Complementary;ipc2023_complementary;optimal;no;solved;16;16;valid
+T1;Count Downward;cd-agl;satisficing;yes;solved;16;16;valid
+T1;Count Downward;cd-opt;optimal;yes;solved;16;16;valid
+T1;Count Downward;cd-sat;satisficing;yes;solved;16;16;valid
+T1;Count Downward Together;cdt-opt;optimal;yes;solved;16;16;valid
+T1;Dalai;ipc2023_dalai_agl;satisficing;no;solved;16;16;valid
+T1;Dalai;ipc2023_dalai_opt;optimal;no;solved;16;16;valid
+T1;Dalai;ipc2023_dalai_sat;satisficing;no;solved;16;16;valid
+T1;DecAbStar;ipc2023_decabstar;optimal;no;solved;16;16;valid
+T1;DecStar;ipc2023_decstar_agl;satisficing;no;solved;16;16;valid
+T1;DecStar;ipc2023_decstar_opt;optimal;no;solved;16;16;valid
+T1;DecStar;ipc2023_decstar_sat;satisficing;no;solved;16;16;valid
+T1;Delfi;delfi;optimal;no;solved;16;16;valid
+T1;DiSCO;ipc2023_disco_agl;satisficing;no;solved;16;16;valid
+T1;DiSCO;ipc2023_disco_sat;satisficing;no;solved;16;16;valid
+T1;DoFri;ipc2023_dofri;optimal;no;solved;16;16;valid
+T1;DOM;ipc2023_dom_opt;optimal;no;solved;16;16;valid
+T1;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;16;16;valid
+T1;ENHSP;enhsp;satisficing;yes;solved;16;16;valid
+T1;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;16;16;valid
+T1;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;16;16;valid
+T1;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;16;16;valid
+T1;FF;ff;satisficing;no;solved;16;16;valid
+T1;FSM;ipc2023_FSM;satisficing;no;solved;16;16;valid
+T1;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;16;16;valid
+T1;FTS;ipc2023_fts_ms_opt;optimal;no;solved;16;16;valid
+T1;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;16;16;valid
+T1;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;16;16;valid
+T1;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;16;16;valid
+T1;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;16;16;valid
+T1;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;16;16;valid
+T1;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;16;16;valid
+T1;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;16;16;valid
+T1;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;16;16;valid
+T1;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;16;16;valid
+T1;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;16;16;valid
+T1;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+T1;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;16;16;valid
+T1;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+T1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;16;16;valid
+T1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;16;16;valid
+T1;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;16;16;valid
+T1;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;16;16;valid
+T1;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;16;16;valid
+T1;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;16;16;valid
+T1;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;16;16;valid
+T1;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;16;16;valid
+T1;LAMA;lama;satisficing;no;solved;16;16;valid
+T1;LAMA;lama-first;satisficing;no;solved;16;16;valid
+T1;Levitron;ipc2023_levitron_agl;satisficing;no;solved;16;16;valid
+T1;Levitron;ipc2023_levitron_sat;satisficing;no;solved;16;16;valid
+T1;LPG-TD;lpg-td;satisficing;yes;solved;16;16;valid
+T1;Metric-FF;metric-ff;satisficing;yes;solved;16;16;valid
+T1;Metric-FF;metric-ff-2.0;satisficing;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;16;16;valid
+T1;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;16;16;valid
+T1;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;16;16;valid
+T1;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;16;16;valid
+T1;nplanning;nplanning-agl;satisficing;yes;solved;16;16;valid
+T1;nplanning;nplanning-sat;satisficing;yes;solved;16;16;valid
+T1;Odin;ipc2023_odin;optimal;no;solved;16;16;valid
+T1;OMTPlan;omtplan-opt;optimal;yes;solved;16;16;valid
+T1;OMTPlan;omtplan-sat;satisficing;yes;solved;16;16;valid
+T1;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;16;16;valid
+T1;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;16;16;valid
+T1;OPTIC;optic;satisficing;yes;rejected;-;-;-
+T1;Panino;panino-agile;satisficing;yes;solved;16;16;valid
+T1;Panino;panino-sat;satisficing;yes;solved;16;16;valid
+T1;PATTY;patty-agl;satisficing;yes;solved;18;18;valid
+T1;PATTY;patty-sat;satisficing;yes;solved;16;16;valid
+T1;PATTYINT;pattyint-agl;satisficing;yes;solved;19;19;valid
+T1;PlanForge;planforge-gbfs;satisficing;yes;solved;16;16;valid
+T1;PlanForge;planforge-opt;optimal;yes;solved;16;16;valid
+T1;POPF;popf;satisficing;yes;timeout;-;-;-
+T1;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;16;16;valid
+T1;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;16;16;valid
+T1;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+T1;Ragnarok;ipc2023_ragnarok;optimal;no;solved;16;16;valid
+T1;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;16;16;valid
+T1;Scorpion;scorpion;optimal;no;solved;16;16;valid
+T1;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;16;16;valid
+T1;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;16;16;valid
+T1;SMTPlan;smtplan;satisficing;yes;solved;16;16;valid
+T1;Spock;ipc2023_spock;satisficing;no;solved;16;16;valid
+T1;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;16;16;valid
+T1;SymK;ipc2023_symk;optimal;no;solved;16;16;valid
+T1;TamerLite;tamerlite-agl;satisficing;yes;solved;16;16;valid
+T1;TamerLite;tamerlite-sat;satisficing;yes;solved;16;16;valid
+T1;Tempest;tempest-sat;satisficing;yes;solved;16;16;valid
+T1;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;16;16;valid
+T1;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;16;16;valid
+T1;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;16;16;valid
+T1;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;16;16;valid
+T1;Tyr;tyr-gbfs;satisficing;yes;solved;16;16;valid
+T1;Tyr;tyr-lift;satisficing;yes;solved;16;16;valid
+T1;Tyr;tyr-opt;optimal;yes;solved;16;16;valid
+T2;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;27;27;valid
+T2;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;27;27;valid
+T2;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+T2;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;27;27;valid
+T2;Cerberus;cerberus-sat;satisficing;no;solved;27;27;valid
+T2;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;27;27;valid
+T2;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;27;27;valid
+T2;Complementary;ipc2023_complementary;optimal;no;solved;27;27;valid
+T2;Count Downward;cd-agl;satisficing;yes;solved;27;27;valid
+T2;Count Downward;cd-opt;optimal;yes;solved;27;27;valid
+T2;Count Downward;cd-sat;satisficing;yes;solved;27;27;valid
+T2;Count Downward Together;cdt-opt;optimal;yes;solved;27;27;valid
+T2;Dalai;ipc2023_dalai_agl;satisficing;no;solved;27;27;valid
+T2;Dalai;ipc2023_dalai_opt;optimal;no;solved;27;27;valid
+T2;Dalai;ipc2023_dalai_sat;satisficing;no;solved;27;27;valid
+T2;DecAbStar;ipc2023_decabstar;optimal;no;solved;27;27;valid
+T2;DecStar;ipc2023_decstar_agl;satisficing;no;solved;27;27;valid
+T2;DecStar;ipc2023_decstar_opt;optimal;no;solved;27;27;valid
+T2;DecStar;ipc2023_decstar_sat;satisficing;no;solved;27;27;valid
+T2;Delfi;delfi;optimal;no;solved;27;27;valid
+T2;DiSCO;ipc2023_disco_agl;satisficing;no;solved;27;27;valid
+T2;DiSCO;ipc2023_disco_sat;satisficing;no;solved;27;27;valid
+T2;DoFri;ipc2023_dofri;optimal;no;solved;27;27;valid
+T2;DOM;ipc2023_dom_opt;optimal;no;solved;27;27;valid
+T2;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;27;27;valid
+T2;ENHSP;enhsp;satisficing;yes;solved;27;27;valid
+T2;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;27;27;valid
+T2;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;27;27;valid
+T2;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;27;27;valid
+T2;FF;ff;satisficing;no;solved;27;27;valid
+T2;FSM;ipc2023_FSM;satisficing;no;solved;27;27;valid
+T2;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;27;27;valid
+T2;FTS;ipc2023_fts_ms_opt;optimal;no;solved;27;27;valid
+T2;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;27;27;valid
+T2;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+T2;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;27;27;valid
+T2;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+T2;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;27;27;valid
+T2;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;27;27;valid
+T2;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;27;27;valid
+T2;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;27;27;valid
+T2;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;27;27;valid
+T2;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;27;27;valid
+T2;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+T2;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;27;27;valid
+T2;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+T2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;27;27;valid
+T2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;27;27;valid
+T2;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;27;27;valid
+T2;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;27;27;valid
+T2;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;27;27;valid
+T2;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;27;27;valid
+T2;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;27;27;valid
+T2;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;27;27;valid
+T2;LAMA;lama;satisficing;no;solved;27;27;valid
+T2;LAMA;lama-first;satisficing;no;solved;27;27;valid
+T2;Levitron;ipc2023_levitron_agl;satisficing;no;solved;27;27;valid
+T2;Levitron;ipc2023_levitron_sat;satisficing;no;solved;27;27;valid
+T2;LPG-TD;lpg-td;satisficing;yes;solved;27;27;valid
+T2;Metric-FF;metric-ff;satisficing;yes;solved;27;27;valid
+T2;Metric-FF;metric-ff-2.0;satisficing;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;27;27;valid
+T2;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;27;27;valid
+T2;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;27;27;valid
+T2;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;27;27;valid
+T2;nplanning;nplanning-agl;satisficing;yes;solved;27;27;valid
+T2;nplanning;nplanning-sat;satisficing;yes;solved;27;27;valid
+T2;Odin;ipc2023_odin;optimal;no;solved;27;27;valid
+T2;OMTPlan;omtplan-opt;optimal;yes;solved;27;27;valid
+T2;OMTPlan;omtplan-sat;satisficing;yes;solved;27;27;valid
+T2;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;27;27;valid
+T2;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;27;27;valid
+T2;OPTIC;optic;satisficing;yes;rejected;-;-;-
+T2;Panino;panino-agile;satisficing;yes;solved;27;27;valid
+T2;Panino;panino-sat;satisficing;yes;solved;27;27;valid
+T2;PATTY;patty-agl;satisficing;yes;solved;29;29;valid
+T2;PATTY;patty-sat;satisficing;yes;solved;27;27;valid
+T2;PATTYINT;pattyint-agl;satisficing;yes;solved;29;29;valid
+T2;PlanForge;planforge-gbfs;satisficing;yes;solved;27;27;valid
+T2;PlanForge;planforge-opt;optimal;yes;solved;27;27;valid
+T2;POPF;popf;satisficing;yes;timeout;-;-;-
+T2;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;27;27;valid
+T2;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;27;27;valid
+T2;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+T2;Ragnarok;ipc2023_ragnarok;optimal;no;solved;27;27;valid
+T2;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;27;27;valid
+T2;Scorpion;scorpion;optimal;no;solved;27;27;valid
+T2;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;27;27;valid
+T2;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;27;27;valid
+T2;SMTPlan;smtplan;satisficing;yes;solved;27;27;valid
+T2;Spock;ipc2023_spock;satisficing;no;solved;27;27;valid
+T2;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;27;27;valid
+T2;SymK;ipc2023_symk;optimal;no;solved;27;27;valid
+T2;TamerLite;tamerlite-agl;satisficing;yes;solved;27;27;valid
+T2;TamerLite;tamerlite-sat;satisficing;yes;solved;27;27;valid
+T2;Tempest;tempest-sat;satisficing;yes;solved;27;27;valid
+T2;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;27;27;valid
+T2;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;27;27;valid
+T2;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;27;27;valid
+T2;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;27;27;valid
+T2;Tyr;tyr-gbfs;satisficing;yes;solved;27;27;valid
+T2;Tyr;tyr-lift;satisficing;yes;solved;27;27;valid
+T2;Tyr;tyr-opt;optimal;yes;solved;27;27;valid
+T3;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;49;49;valid
+T3;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;49;49;valid
+T3;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+T3;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;49;49;valid
+T3;Cerberus;cerberus-sat;satisficing;no;solved;49;49;valid
+T3;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;49;49;valid
+T3;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;49;49;valid
+T3;Complementary;ipc2023_complementary;optimal;no;solved;49;49;valid
+T3;Count Downward;cd-agl;satisficing;yes;solved;49;49;valid
+T3;Count Downward;cd-opt;optimal;yes;solved;49;49;valid
+T3;Count Downward;cd-sat;satisficing;yes;solved;49;49;valid
+T3;Count Downward Together;cdt-opt;optimal;yes;solved;49;49;valid
+T3;Dalai;ipc2023_dalai_agl;satisficing;no;solved;49;49;valid
+T3;Dalai;ipc2023_dalai_opt;optimal;no;solved;49;49;valid
+T3;Dalai;ipc2023_dalai_sat;satisficing;no;solved;49;49;valid
+T3;DecAbStar;ipc2023_decabstar;optimal;no;solved;49;49;valid
+T3;DecStar;ipc2023_decstar_agl;satisficing;no;solved;49;49;valid
+T3;DecStar;ipc2023_decstar_opt;optimal;no;solved;49;49;valid
+T3;DecStar;ipc2023_decstar_sat;satisficing;no;solved;49;49;valid
+T3;Delfi;delfi;optimal;no;solved;49;49;valid
+T3;DiSCO;ipc2023_disco_agl;satisficing;no;solved;49;49;valid
+T3;DiSCO;ipc2023_disco_sat;satisficing;no;solved;49;49;valid
+T3;DoFri;ipc2023_dofri;optimal;no;solved;49;49;valid
+T3;DOM;ipc2023_dom_opt;optimal;no;solved;49;49;valid
+T3;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;49;49;valid
+T3;ENHSP;enhsp;satisficing;yes;solved;49;49;valid
+T3;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;49;49;valid
+T3;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;49;49;valid
+T3;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;49;49;valid
+T3;FF;ff;satisficing;no;solved;49;49;valid
+T3;FSM;ipc2023_FSM;satisficing;no;solved;49;49;valid
+T3;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;49;49;valid
+T3;FTS;ipc2023_fts_ms_opt;optimal;no;solved;49;49;valid
+T3;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;49;49;valid
+T3;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;49;49;valid
+T3;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;49;49;valid
+T3;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;49;49;valid
+T3;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;49;49;valid
+T3;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;49;49;valid
+T3;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;49;49;valid
+T3;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;49;49;valid
+T3;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;49;49;valid
+T3;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;49;49;valid
+T3;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+T3;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;49;49;valid
+T3;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+T3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;49;49;valid
+T3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;49;49;valid
+T3;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;49;49;valid
+T3;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;49;49;valid
+T3;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;49;49;valid
+T3;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;49;49;valid
+T3;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;49;49;valid
+T3;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;49;49;valid
+T3;LAMA;lama;satisficing;no;solved;49;49;valid
+T3;LAMA;lama-first;satisficing;no;solved;49;49;valid
+T3;Levitron;ipc2023_levitron_agl;satisficing;no;solved;49;49;valid
+T3;Levitron;ipc2023_levitron_sat;satisficing;no;solved;49;49;valid
+T3;LPG-TD;lpg-td;satisficing;yes;solved;93;93;valid
+T3;Metric-FF;metric-ff;satisficing;yes;solved;49;49;valid
+T3;Metric-FF;metric-ff-2.0;satisficing;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;49;49;valid
+T3;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;49;49;valid
+T3;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;49;49;valid
+T3;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;49;49;valid
+T3;nplanning;nplanning-agl;satisficing;yes;solved;49;49;valid
+T3;nplanning;nplanning-sat;satisficing;yes;solved;49;49;valid
+T3;Odin;ipc2023_odin;optimal;no;solved;49;49;valid
+T3;OMTPlan;omtplan-opt;optimal;yes;solved;49;49;valid
+T3;OMTPlan;omtplan-sat;satisficing;yes;solved;49;49;valid
+T3;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;49;49;valid
+T3;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;49;49;valid
+T3;OPTIC;optic;satisficing;yes;rejected;-;-;-
+T3;Panino;panino-agile;satisficing;yes;solved;49;49;valid
+T3;Panino;panino-sat;satisficing;yes;solved;49;49;valid
+T3;PATTY;patty-agl;satisficing;yes;solved;50;50;valid
+T3;PATTY;patty-sat;satisficing;yes;solved;49;49;valid
+T3;PATTYINT;pattyint-agl;satisficing;yes;solved;52;52;valid
+T3;PlanForge;planforge-gbfs;satisficing;yes;solved;49;49;valid
+T3;PlanForge;planforge-opt;optimal;yes;solved;49;49;valid
+T3;POPF;popf;satisficing;yes;timeout;-;-;-
+T3;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;49;49;valid
+T3;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;49;49;valid
+T3;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+T3;Ragnarok;ipc2023_ragnarok;optimal;no;solved;49;49;valid
+T3;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;49;49;valid
+T3;Scorpion;scorpion;optimal;no;solved;49;49;valid
+T3;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;49;49;valid
+T3;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;49;49;valid
+T3;SMTPlan;smtplan;satisficing;yes;solved;49;49;valid
+T3;Spock;ipc2023_spock;satisficing;no;solved;49;49;valid
+T3;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;49;49;valid
+T3;SymK;ipc2023_symk;optimal;no;solved;49;49;valid
+T3;TamerLite;tamerlite-agl;satisficing;yes;solved;49;49;valid
+T3;TamerLite;tamerlite-sat;satisficing;yes;solved;49;49;valid
+T3;Tempest;tempest-sat;satisficing;yes;solved;49;49;valid
+T3;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;49;49;valid
+T3;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;49;49;valid
+T3;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;49;49;valid
+T3;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;49;49;valid
+T3;Tyr;tyr-gbfs;satisficing;yes;solved;49;49;valid
+T3;Tyr;tyr-lift;satisficing;yes;solved;49;49;valid
+T3;Tyr;tyr-opt;optimal;yes;solved;49;49;valid
+P1;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;25;25;valid
+P1;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;25;25;valid
+P1;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+P1;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;25;25;valid
+P1;Cerberus;cerberus-sat;satisficing;no;solved;25;25;valid
+P1;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;25;25;valid
+P1;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;25;25;valid
+P1;Complementary;ipc2023_complementary;optimal;no;solved;25;25;valid
+P1;Count Downward;cd-agl;satisficing;yes;solved;25;25;valid
+P1;Count Downward;cd-opt;optimal;yes;solved;25;25;valid
+P1;Count Downward;cd-sat;satisficing;yes;solved;25;25;valid
+P1;Count Downward Together;cdt-opt;optimal;yes;solved;25;25;valid
+P1;Dalai;ipc2023_dalai_agl;satisficing;no;solved;25;25;valid
+P1;Dalai;ipc2023_dalai_opt;optimal;no;solved;25;25;valid
+P1;Dalai;ipc2023_dalai_sat;satisficing;no;solved;25;25;valid
+P1;DecAbStar;ipc2023_decabstar;optimal;no;solved;25;25;valid
+P1;DecStar;ipc2023_decstar_agl;satisficing;no;solved;25;25;valid
+P1;DecStar;ipc2023_decstar_opt;optimal;no;solved;25;25;valid
+P1;DecStar;ipc2023_decstar_sat;satisficing;no;solved;25;25;valid
+P1;Delfi;delfi;optimal;no;solved;25;25;valid
+P1;DiSCO;ipc2023_disco_agl;satisficing;no;solved;25;25;valid
+P1;DiSCO;ipc2023_disco_sat;satisficing;no;solved;25;25;valid
+P1;DoFri;ipc2023_dofri;optimal;no;solved;25;25;valid
+P1;DOM;ipc2023_dom_opt;optimal;no;solved;25;25;valid
+P1;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;25;25;valid
+P1;ENHSP;enhsp;satisficing;yes;solved;25;25;valid
+P1;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;25;25;valid
+P1;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;25;25;valid
+P1;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;25;25;valid
+P1;FF;ff;satisficing;no;solved;25;25;valid
+P1;FSM;ipc2023_FSM;satisficing;no;solved;25;25;valid
+P1;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;25;25;valid
+P1;FTS;ipc2023_fts_ms_opt;optimal;no;solved;25;25;valid
+P1;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;25;25;valid
+P1;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;not-run;-;-;-
+P1;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;25;25;valid
+P1;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+P1;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;25;25;valid
+P1;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;25;25;valid
+P1;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;25;25;valid
+P1;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;25;25;valid
+P1;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;25;25;valid
+P1;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;25;25;valid
+P1;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+P1;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;25;25;valid
+P1;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+P1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;25;25;valid
+P1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;27;27;valid
+P1;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;25;25;valid
+P1;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;25;25;valid
+P1;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;25;25;valid
+P1;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;25;25;valid
+P1;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;25;25;valid
+P1;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;25;25;valid
+P1;LAMA;lama;satisficing;no;solved;25;25;valid
+P1;LAMA;lama-first;satisficing;no;solved;25;25;valid
+P1;Levitron;ipc2023_levitron_agl;satisficing;no;solved;25;25;valid
+P1;Levitron;ipc2023_levitron_sat;satisficing;no;solved;25;25;valid
+P1;LPG-TD;lpg-td;satisficing;yes;solved;25;25;valid
+P1;Metric-FF;metric-ff;satisficing;yes;solved;25;25;valid
+P1;Metric-FF;metric-ff-2.0;satisficing;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;25;25;valid
+P1;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;25;25;valid
+P1;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;25;25;valid
+P1;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;25;25;valid
+P1;nplanning;nplanning-agl;satisficing;yes;solved;25;25;valid
+P1;nplanning;nplanning-sat;satisficing;yes;solved;25;25;valid
+P1;Odin;ipc2023_odin;optimal;no;solved;25;25;valid
+P1;OMTPlan;omtplan-opt;optimal;yes;solved;25;25;valid
+P1;OMTPlan;omtplan-sat;satisficing;yes;solved;25;25;valid
+P1;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;25;25;valid
+P1;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;25;25;valid
+P1;OPTIC;optic;satisficing;yes;rejected;-;-;-
+P1;Panino;panino-agile;satisficing;yes;solved;25;25;valid
+P1;Panino;panino-sat;satisficing;yes;solved;25;25;valid
+P1;PATTY;patty-agl;satisficing;yes;solved;27;27;valid
+P1;PATTY;patty-sat;satisficing;yes;solved;25;25;valid
+P1;PATTYINT;pattyint-agl;satisficing;yes;solved;25;25;valid
+P1;PlanForge;planforge-gbfs;satisficing;yes;solved;25;25;valid
+P1;PlanForge;planforge-opt;optimal;yes;solved;25;25;valid
+P1;POPF;popf;satisficing;yes;unsolvable;-;-;-
+P1;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;25;25;valid
+P1;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;25;25;valid
+P1;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+P1;Ragnarok;ipc2023_ragnarok;optimal;no;solved;25;25;valid
+P1;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;25;25;valid
+P1;Scorpion;scorpion;optimal;no;solved;25;25;valid
+P1;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;25;25;valid
+P1;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;25;25;valid
+P1;SMTPlan;smtplan;satisficing;yes;timeout;-;-;-
+P1;Spock;ipc2023_spock;satisficing;no;solved;25;25;valid
+P1;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;25;25;valid
+P1;SymK;ipc2023_symk;optimal;no;solved;25;25;valid
+P1;TamerLite;tamerlite-agl;satisficing;yes;solved;25;25;valid
+P1;TamerLite;tamerlite-sat;satisficing;yes;solved;25;25;valid
+P1;Tempest;tempest-sat;satisficing;yes;solved;25;25;valid
+P1;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;25;25;valid
+P1;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;25;25;valid
+P1;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;25;25;valid
+P1;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;25;25;valid
+P1;Tyr;tyr-gbfs;satisficing;yes;solved;25;25;valid
+P1;Tyr;tyr-lift;satisficing;yes;solved;25;25;valid
+P1;Tyr;tyr-opt;optimal;yes;solved;25;25;valid
+P2;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;49;49;valid
+P2;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;49;49;valid
+P2;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+P2;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;49;49;valid
+P2;Cerberus;cerberus-sat;satisficing;no;solved;49;49;valid
+P2;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;49;49;valid
+P2;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;49;49;valid
+P2;Complementary;ipc2023_complementary;optimal;no;solved;49;49;valid
+P2;Count Downward;cd-agl;satisficing;yes;solved;49;49;valid
+P2;Count Downward;cd-opt;optimal;yes;solved;49;49;valid
+P2;Count Downward;cd-sat;satisficing;yes;solved;49;49;valid
+P2;Count Downward Together;cdt-opt;optimal;yes;solved;49;49;valid
+P2;Dalai;ipc2023_dalai_agl;satisficing;no;solved;49;49;valid
+P2;Dalai;ipc2023_dalai_opt;optimal;no;solved;49;49;valid
+P2;Dalai;ipc2023_dalai_sat;satisficing;no;solved;49;49;valid
+P2;DecAbStar;ipc2023_decabstar;optimal;no;solved;49;49;valid
+P2;DecStar;ipc2023_decstar_agl;satisficing;no;solved;49;49;valid
+P2;DecStar;ipc2023_decstar_opt;optimal;no;solved;49;49;valid
+P2;DecStar;ipc2023_decstar_sat;satisficing;no;solved;49;49;valid
+P2;Delfi;delfi;optimal;no;solved;49;49;valid
+P2;DiSCO;ipc2023_disco_agl;satisficing;no;solved;49;49;valid
+P2;DiSCO;ipc2023_disco_sat;satisficing;no;solved;49;49;valid
+P2;DoFri;ipc2023_dofri;optimal;no;solved;49;49;valid
+P2;DOM;ipc2023_dom_opt;optimal;no;solved;49;49;valid
+P2;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;49;49;valid
+P2;ENHSP;enhsp;satisficing;yes;solved;49;49;valid
+P2;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;49;49;valid
+P2;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;49;49;valid
+P2;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;49;49;valid
+P2;FF;ff;satisficing;no;solved;49;49;valid
+P2;FSM;ipc2023_FSM;satisficing;no;solved;72;72;valid
+P2;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;49;49;valid
+P2;FTS;ipc2023_fts_ms_opt;optimal;no;solved;49;49;valid
+P2;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;49;49;valid
+P2;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;49;49;valid
+P2;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;49;49;valid
+P2;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;49;49;valid
+P2;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;49;49;valid
+P2;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;49;49;valid
+P2;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;49;49;valid
+P2;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;49;49;valid
+P2;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;49;49;valid
+P2;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;49;49;valid
+P2;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+P2;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;49;49;valid
+P2;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+P2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;49;49;valid
+P2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;49;49;valid
+P2;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;49;49;valid
+P2;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;49;49;valid
+P2;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;49;49;valid
+P2;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;49;49;valid
+P2;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;49;49;valid
+P2;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;49;49;valid
+P2;LAMA;lama;satisficing;no;solved;49;49;valid
+P2;LAMA;lama-first;satisficing;no;solved;49;49;valid
+P2;Levitron;ipc2023_levitron_agl;satisficing;no;solved;49;49;valid
+P2;Levitron;ipc2023_levitron_sat;satisficing;no;solved;49;49;valid
+P2;LPG-TD;lpg-td;satisficing;yes;solved;93;93;valid
+P2;Metric-FF;metric-ff;satisficing;yes;solved;49;49;valid
+P2;Metric-FF;metric-ff-2.0;satisficing;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;49;49;valid
+P2;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;49;49;valid
+P2;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;49;49;valid
+P2;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;49;49;valid
+P2;nplanning;nplanning-agl;satisficing;yes;solved;49;49;valid
+P2;nplanning;nplanning-sat;satisficing;yes;solved;49;49;valid
+P2;Odin;ipc2023_odin;optimal;no;solved;49;49;valid
+P2;OMTPlan;omtplan-opt;optimal;yes;solved;49;49;valid
+P2;OMTPlan;omtplan-sat;satisficing;yes;solved;49;49;valid
+P2;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;49;49;valid
+P2;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;49;49;valid
+P2;OPTIC;optic;satisficing;yes;rejected;-;-;-
+P2;Panino;panino-agile;satisficing;yes;solved;49;49;valid
+P2;Panino;panino-sat;satisficing;yes;solved;49;49;valid
+P2;PATTY;patty-agl;satisficing;yes;solved;50;50;valid
+P2;PATTY;patty-sat;satisficing;yes;solved;49;49;valid
+P2;PATTYINT;pattyint-agl;satisficing;yes;solved;51;51;valid
+P2;PlanForge;planforge-gbfs;satisficing;yes;solved;49;49;valid
+P2;PlanForge;planforge-opt;optimal;yes;solved;49;49;valid
+P2;POPF;popf;satisficing;yes;timeout;-;-;-
+P2;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;49;49;valid
+P2;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;49;49;valid
+P2;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+P2;Ragnarok;ipc2023_ragnarok;optimal;no;solved;49;49;valid
+P2;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;49;49;valid
+P2;Scorpion;scorpion;optimal;no;solved;49;49;valid
+P2;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;49;49;valid
+P2;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;49;49;valid
+P2;SMTPlan;smtplan;satisficing;yes;solved;49;49;valid
+P2;Spock;ipc2023_spock;satisficing;no;solved;49;49;valid
+P2;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;49;49;valid
+P2;SymK;ipc2023_symk;optimal;no;solved;49;49;valid
+P2;TamerLite;tamerlite-agl;satisficing;yes;solved;49;49;valid
+P2;TamerLite;tamerlite-sat;satisficing;yes;solved;49;49;valid
+P2;Tempest;tempest-sat;satisficing;yes;solved;49;49;valid
+P2;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;49;49;valid
+P2;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;49;49;valid
+P2;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;49;49;valid
+P2;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;49;49;valid
+P2;Tyr;tyr-gbfs;satisficing;yes;solved;49;49;valid
+P2;Tyr;tyr-lift;satisficing;yes;solved;49;49;valid
+P2;Tyr;tyr-opt;optimal;yes;solved;49;49;valid
+P3;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;23;23;valid
+P3;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;23;23;valid
+P3;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+P3;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;23;23;valid
+P3;Cerberus;cerberus-sat;satisficing;no;solved;23;23;valid
+P3;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;23;23;valid
+P3;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;23;23;valid
+P3;Complementary;ipc2023_complementary;optimal;no;solved;23;23;valid
+P3;Count Downward;cd-agl;satisficing;yes;solved;23;23;valid
+P3;Count Downward;cd-opt;optimal;yes;solved;23;23;valid
+P3;Count Downward;cd-sat;satisficing;yes;solved;23;23;valid
+P3;Count Downward Together;cdt-opt;optimal;yes;solved;23;23;valid
+P3;Dalai;ipc2023_dalai_agl;satisficing;no;solved;23;23;valid
+P3;Dalai;ipc2023_dalai_opt;optimal;no;solved;23;23;valid
+P3;Dalai;ipc2023_dalai_sat;satisficing;no;solved;23;23;valid
+P3;DecAbStar;ipc2023_decabstar;optimal;no;solved;23;23;valid
+P3;DecStar;ipc2023_decstar_agl;satisficing;no;solved;23;23;valid
+P3;DecStar;ipc2023_decstar_opt;optimal;no;solved;23;23;valid
+P3;DecStar;ipc2023_decstar_sat;satisficing;no;solved;23;23;valid
+P3;Delfi;delfi;optimal;no;solved;23;23;valid
+P3;DiSCO;ipc2023_disco_agl;satisficing;no;solved;23;23;valid
+P3;DiSCO;ipc2023_disco_sat;satisficing;no;solved;23;23;valid
+P3;DoFri;ipc2023_dofri;optimal;no;solved;23;23;valid
+P3;DOM;ipc2023_dom_opt;optimal;no;solved;23;23;valid
+P3;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;23;23;valid
+P3;ENHSP;enhsp;satisficing;yes;solved;23;23;valid
+P3;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;23;23;valid
+P3;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;23;23;valid
+P3;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;23;23;valid
+P3;FF;ff;satisficing;no;solved;23;23;valid
+P3;FSM;ipc2023_FSM;satisficing;no;solved;23;23;valid
+P3;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;23;23;valid
+P3;FTS;ipc2023_fts_ms_opt;optimal;no;solved;23;23;valid
+P3;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;23;23;valid
+P3;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;23;23;valid
+P3;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;23;23;valid
+P3;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;23;23;valid
+P3;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;23;23;valid
+P3;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;23;23;valid
+P3;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;23;23;valid
+P3;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;solved;23;23;valid
+P3;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;23;23;valid
+P3;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;solved;23;23;valid
+P3;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+P3;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;23;23;valid
+P3;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+P3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;23;23;valid
+P3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;23;23;valid
+P3;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;23;23;valid
+P3;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;23;23;valid
+P3;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;23;23;valid
+P3;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;23;23;valid
+P3;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;23;23;valid
+P3;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;23;23;valid
+P3;LAMA;lama;satisficing;no;solved;23;23;valid
+P3;LAMA;lama-first;satisficing;no;solved;23;23;valid
+P3;Levitron;ipc2023_levitron_agl;satisficing;no;solved;23;23;valid
+P3;Levitron;ipc2023_levitron_sat;satisficing;no;solved;23;23;valid
+P3;LPG-TD;lpg-td;satisficing;yes;solved;23;23;valid
+P3;Metric-FF;metric-ff;satisficing;yes;solved;23;23;valid
+P3;Metric-FF;metric-ff-2.0;satisficing;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;23;23;valid
+P3;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;23;23;valid
+P3;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;23;23;valid
+P3;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;23;23;valid
+P3;nplanning;nplanning-agl;satisficing;yes;solved;23;23;valid
+P3;nplanning;nplanning-sat;satisficing;yes;solved;23;23;valid
+P3;Odin;ipc2023_odin;optimal;no;solved;23;23;valid
+P3;OMTPlan;omtplan-opt;optimal;yes;solved;23;23;valid
+P3;OMTPlan;omtplan-sat;satisficing;yes;solved;23;23;valid
+P3;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;23;23;valid
+P3;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;23;23;valid
+P3;OPTIC;optic;satisficing;yes;rejected;-;-;-
+P3;Panino;panino-agile;satisficing;yes;solved;23;23;valid
+P3;Panino;panino-sat;satisficing;yes;solved;23;23;valid
+P3;PATTY;patty-agl;satisficing;yes;solved;24;24;valid
+P3;PATTY;patty-sat;satisficing;yes;solved;23;23;valid
+P3;PATTYINT;pattyint-agl;satisficing;yes;rejected;-;-;-
+P3;PlanForge;planforge-gbfs;satisficing;yes;solved;23;23;valid
+P3;PlanForge;planforge-opt;optimal;yes;solved;23;23;valid
+P3;POPF;popf;satisficing;yes;timeout;-;-;-
+P3;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;23;23;valid
+P3;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;23;23;valid
+P3;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+P3;Ragnarok;ipc2023_ragnarok;optimal;no;solved;23;23;valid
+P3;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;23;23;valid
+P3;Scorpion;scorpion;optimal;no;solved;23;23;valid
+P3;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;23;23;valid
+P3;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;23;23;valid
+P3;SMTPlan;smtplan;satisficing;yes;solved;23;23;valid
+P3;Spock;ipc2023_spock;satisficing;no;solved;23;23;valid
+P3;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;23;23;valid
+P3;SymK;ipc2023_symk;optimal;no;solved;23;23;valid
+P3;TamerLite;tamerlite-agl;satisficing;yes;solved;23;23;valid
+P3;TamerLite;tamerlite-sat;satisficing;yes;solved;23;23;valid
+P3;Tempest;tempest-sat;satisficing;yes;solved;23;23;valid
+P3;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;23;23;valid
+P3;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;23;23;valid
+P3;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;23;23;valid
+P3;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;23;23;valid
+P3;Tyr;tyr-gbfs;satisficing;yes;solved;23;23;valid
+P3;Tyr;tyr-lift;satisficing;yes;solved;23;23;valid
+P3;Tyr;tyr-opt;optimal;yes;solved;23;23;valid
+V1;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;solved;23;23;valid
+V1;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;solved;23;23;valid
+V1;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+V1;CEGAR++;ipc2023_cegarplusplus;optimal;no;solved;23;23;valid
+V1;Cerberus;cerberus-sat;satisficing;no;solved;23;23;valid
+V1;Cerberus;ipc2023_cerberus_agl;satisficing;no;solved;23;23;valid
+V1;Cerberus;ipc2023_cerberus_sat;satisficing;no;solved;23;23;valid
+V1;Complementary;ipc2023_complementary;optimal;no;solved;23;23;valid
+V1;Count Downward;cd-agl;satisficing;yes;solved;23;23;valid
+V1;Count Downward;cd-opt;optimal;yes;solved;23;23;valid
+V1;Count Downward;cd-sat;satisficing;yes;solved;23;23;valid
+V1;Count Downward Together;cdt-opt;optimal;yes;solved;23;23;valid
+V1;Dalai;ipc2023_dalai_agl;satisficing;no;solved;32;32;valid
+V1;Dalai;ipc2023_dalai_opt;optimal;no;solved;23;23;valid
+V1;Dalai;ipc2023_dalai_sat;satisficing;no;solved;23;23;valid
+V1;DecAbStar;ipc2023_decabstar;optimal;no;solved;23;23;valid
+V1;DecStar;ipc2023_decstar_agl;satisficing;no;solved;23;23;valid
+V1;DecStar;ipc2023_decstar_opt;optimal;no;solved;23;23;valid
+V1;DecStar;ipc2023_decstar_sat;satisficing;no;solved;23;23;valid
+V1;Delfi;delfi;optimal;no;solved;23;23;valid
+V1;DiSCO;ipc2023_disco_agl;satisficing;no;solved;23;23;valid
+V1;DiSCO;ipc2023_disco_sat;satisficing;no;solved;23;23;valid
+V1;DoFri;ipc2023_dofri;optimal;no;solved;23;23;valid
+V1;DOM;ipc2023_dom_opt;optimal;no;solved;23;23;valid
+V1;Dual-BFWS;dual-bfws-fdparser;satisficing;no;solved;23;23;valid
+V1;ENHSP;enhsp;satisficing;yes;solved;23;23;valid
+V1;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;solved;23;23;valid
+V1;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;solved;23;23;valid
+V1;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;solved;23;23;valid
+V1;FF;ff;satisficing;no;solved;23;23;valid
+V1;FSM;ipc2023_FSM;satisficing;no;solved;23;23;valid
+V1;FTS;ipc2023_fts_ff_agl;satisficing;no;solved;23;23;valid
+V1;FTS;ipc2023_fts_ms_opt;optimal;no;solved;23;23;valid
+V1;FTS;ipc2023_fts_sbd_opt;optimal;no;solved;23;23;valid
+V1;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;solved;23;23;valid
+V1;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;solved;23;23;valid
+V1;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;solved;23;23;valid
+V1;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;solved;23;23;valid
+V1;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;solved;23;23;valid
+V1;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;solved;23;23;valid
+V1;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;no-plan;-;-;-
+V1;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;solved;23;23;valid
+V1;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;no-plan;-;-;-
+V1;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+V1;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;solved;23;23;valid
+V1;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+V1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;solved;23;23;valid
+V1;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;solved;23;23;valid
+V1;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;solved;23;23;valid
+V1;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;solved;23;23;valid
+V1;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;solved;23;23;valid
+V1;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;solved;23;23;valid
+V1;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;solved;23;23;valid
+V1;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;solved;79;79;valid
+V1;LAMA;lama;satisficing;no;solved;23;23;valid
+V1;LAMA;lama-first;satisficing;no;solved;23;23;valid
+V1;Levitron;ipc2023_levitron_agl;satisficing;no;solved;32;32;valid
+V1;Levitron;ipc2023_levitron_sat;satisficing;no;solved;23;23;valid
+V1;LPG-TD;lpg-td;satisficing;yes;rejected;-;-;-
+V1;Metric-FF;metric-ff;satisficing;yes;solved;23;23;valid
+V1;Metric-FF;metric-ff-2.0;satisficing;yes;solved;23;23;valid
+V1;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;23;23;valid
+V1;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;23;23;valid
+V1;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;23;23;valid
+V1;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;23;23;valid
+V1;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;32;32;valid
+V1;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;23;23;valid
+V1;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;32;32;valid
+V1;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;solved;23;23;valid
+V1;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;solved;23;23;valid
+V1;nplanning;nplanning-agl;satisficing;yes;rejected;-;-;-
+V1;nplanning;nplanning-sat;satisficing;yes;rejected;-;-;-
+V1;Odin;ipc2023_odin;optimal;no;solved;23;23;valid
+V1;OMTPlan;omtplan-opt;optimal;yes;error;-;-;-
+V1;OMTPlan;omtplan-sat;satisficing;yes;rejected;-;-;-
+V1;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;solved;32;32;valid
+V1;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;solved;32;32;valid
+V1;OPTIC;optic;satisficing;yes;rejected;-;-;-
+V1;Panino;panino-agile;satisficing;yes;solved;23;23;valid
+V1;Panino;panino-sat;satisficing;yes;solved;23;23;valid
+V1;PATTY;patty-agl;satisficing;yes;error;-;-;-
+V1;PATTY;patty-sat;satisficing;yes;error;-;-;-
+V1;PATTYINT;pattyint-agl;satisficing;yes;error;-;-;-
+V1;PlanForge;planforge-gbfs;satisficing;yes;solved;23;23;valid
+V1;PlanForge;planforge-opt;optimal;yes;solved;23;23;valid
+V1;POPF;popf;satisficing;yes;rejected;-;-;-
+V1;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;solved;23;23;valid
+V1;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;solved;23;23;valid
+V1;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+V1;Ragnarok;ipc2023_ragnarok;optimal;no;solved;23;23;valid
+V1;Scorpion;ipc2023_scorpion_2023;optimal;no;solved;23;23;valid
+V1;Scorpion;scorpion;optimal;no;solved;23;23;valid
+V1;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;solved;32;32;valid
+V1;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;solved;23;23;valid
+V1;SMTPlan;smtplan;satisficing;yes;solved;23;23;valid
+V1;Spock;ipc2023_spock;satisficing;no;solved;23;23;valid
+V1;SymBD;ipc2023_SymBD_2023_opt;optimal;no;solved;23;23;valid
+V1;SymK;ipc2023_symk;optimal;no;solved;23;23;valid
+V1;TamerLite;tamerlite-agl;satisficing;yes;solved;23;23;valid
+V1;TamerLite;tamerlite-sat;satisficing;yes;solved;23;23;valid
+V1;Tempest;tempest-sat;satisficing;yes;rejected;-;-;-
+V1;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;solved;23;23;valid
+V1;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;solved;23;23;valid
+V1;TFTM;ipc2023_tftm_co1_agl;satisficing;no;solved;23;23;valid
+V1;TFTM;ipc2023_tftm_co1_sat;satisficing;no;solved;23;23;valid
+V1;Tyr;tyr-gbfs;satisficing;yes;solved;23;23;valid
+V1;Tyr;tyr-lift;satisficing;yes;solved;23;23;valid
+V1;Tyr;tyr-opt;optimal;yes;solved;23;23;valid
+V2;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;rejected;-;-;-
+V2;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;rejected;-;-;-
+V2;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+V2;CEGAR++;ipc2023_cegarplusplus;optimal;no;rejected;-;-;-
+V2;Cerberus;cerberus-sat;satisficing;no;rejected;-;-;-
+V2;Cerberus;ipc2023_cerberus_agl;satisficing;no;rejected;-;-;-
+V2;Cerberus;ipc2023_cerberus_sat;satisficing;no;rejected;-;-;-
+V2;Complementary;ipc2023_complementary;optimal;no;rejected;-;-;-
+V2;Count Downward;cd-agl;satisficing;yes;solved;23;0;valid
+V2;Count Downward;cd-opt;optimal;yes;solved;23;0;valid
+V2;Count Downward;cd-sat;satisficing;yes;solved;23;0;valid
+V2;Count Downward Together;cdt-opt;optimal;yes;solved;23;0;valid
+V2;Dalai;ipc2023_dalai_agl;satisficing;no;rejected;-;-;-
+V2;Dalai;ipc2023_dalai_opt;optimal;no;rejected;-;-;-
+V2;Dalai;ipc2023_dalai_sat;satisficing;no;rejected;-;-;-
+V2;DecAbStar;ipc2023_decabstar;optimal;no;rejected;-;-;-
+V2;DecStar;ipc2023_decstar_agl;satisficing;no;rejected;-;-;-
+V2;DecStar;ipc2023_decstar_opt;optimal;no;rejected;-;-;-
+V2;DecStar;ipc2023_decstar_sat;satisficing;no;rejected;-;-;-
+V2;Delfi;delfi;optimal;no;rejected;-;-;-
+V2;DiSCO;ipc2023_disco_agl;satisficing;no;rejected;-;-;-
+V2;DiSCO;ipc2023_disco_sat;satisficing;no;rejected;-;-;-
+V2;DoFri;ipc2023_dofri;optimal;no;rejected;-;-;-
+V2;DOM;ipc2023_dom_opt;optimal;no;rejected;-;-;-
+V2;Dual-BFWS;dual-bfws-fdparser;satisficing;no;rejected;-;-;-
+V2;ENHSP;enhsp;satisficing;yes;out-of-memory;-;-;-
+V2;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;rejected;-;-;-
+V2;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;rejected;-;-;-
+V2;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;rejected;-;-;-
+V2;FF;ff;satisficing;no;rejected;-;-;-
+V2;FSM;ipc2023_FSM;satisficing;no;rejected;-;-;-
+V2;FTS;ipc2023_fts_ff_agl;satisficing;no;rejected;-;-;-
+V2;FTS;ipc2023_fts_ms_opt;optimal;no;rejected;-;-;-
+V2;FTS;ipc2023_fts_sbd_opt;optimal;no;rejected;-;-;-
+V2;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;rejected;-;-;-
+V2;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;rejected;-;-;-
+V2;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+V2;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;rejected;-;-;-
+V2;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;rejected;-;-;-
+V2;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;rejected;-;-;-
+V2;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;rejected;-;-;-
+V2;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;rejected;-;-;-
+V2;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;rejected;-;-;-
+V2;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+V2;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;rejected;-;-;-
+V2;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+V2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;rejected;-;-;-
+V2;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;rejected;-;-;-
+V2;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;rejected;-;-;-
+V2;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;rejected;-;-;-
+V2;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;rejected;-;-;-
+V2;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;rejected;-;-;-
+V2;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;rejected;-;-;-
+V2;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;rejected;-;-;-
+V2;LAMA;lama;satisficing;no;rejected;-;-;-
+V2;LAMA;lama-first;satisficing;no;rejected;-;-;-
+V2;Levitron;ipc2023_levitron_agl;satisficing;no;rejected;-;-;-
+V2;Levitron;ipc2023_levitron_sat;satisficing;no;rejected;-;-;-
+V2;LPG-TD;lpg-td;satisficing;yes;rejected;-;-;-
+V2;Metric-FF;metric-ff;satisficing;yes;rejected;-;-;-
+V2;Metric-FF;metric-ff-2.0;satisficing;yes;rejected;-;-;-
+V2;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;solved;23;0;valid
+V2;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;solved;23;0;valid
+V2;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;solved;23;0;valid
+V2;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;solved;23;0;valid
+V2;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;solved;23;0;valid
+V2;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;solved;23;0;valid
+V2;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;solved;23;0;valid
+V2;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;rejected;-;-;-
+V2;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;rejected;-;-;-
+V2;nplanning;nplanning-agl;satisficing;yes;solved;23;0;valid
+V2;nplanning;nplanning-sat;satisficing;yes;solved;23;0;valid
+V2;Odin;ipc2023_odin;optimal;no;rejected;-;-;-
+V2;OMTPlan;omtplan-opt;optimal;yes;solved;24;0;valid
+V2;OMTPlan;omtplan-sat;satisficing;yes;solved;23;0;valid
+V2;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;rejected;-;-;-
+V2;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;rejected;-;-;-
+V2;OPTIC;optic;satisficing;yes;rejected;-;-;-
+V2;Panino;panino-agile;satisficing;yes;solved;23;0;valid
+V2;Panino;panino-sat;satisficing;yes;solved;23;0;valid
+V2;PATTY;patty-agl;satisficing;yes;rejected;-;-;-
+V2;PATTY;patty-sat;satisficing;yes;rejected;-;-;-
+V2;PATTYINT;pattyint-agl;satisficing;yes;rejected;-;-;-
+V2;PlanForge;planforge-gbfs;satisficing;yes;solved;23;0;valid
+V2;PlanForge;planforge-opt;optimal;yes;solved;23;0;valid
+V2;POPF;popf;satisficing;yes;timeout;-;-;-
+V2;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;rejected;-;-;-
+V2;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;rejected;-;-;-
+V2;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+V2;Ragnarok;ipc2023_ragnarok;optimal;no;rejected;-;-;-
+V2;Scorpion;ipc2023_scorpion_2023;optimal;no;rejected;-;-;-
+V2;Scorpion;scorpion;optimal;no;rejected;-;-;-
+V2;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;rejected;-;-;-
+V2;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;rejected;-;-;-
+V2;SMTPlan;smtplan;satisficing;yes;solved;23;0;valid
+V2;Spock;ipc2023_spock;satisficing;no;rejected;-;-;-
+V2;SymBD;ipc2023_SymBD_2023_opt;optimal;no;rejected;-;-;-
+V2;SymK;ipc2023_symk;optimal;no;rejected;-;-;-
+V2;TamerLite;tamerlite-agl;satisficing;yes;rejected;-;-;-
+V2;TamerLite;tamerlite-sat;satisficing;yes;rejected;-;-;-
+V2;Tempest;tempest-sat;satisficing;yes;solved;23;0;valid
+V2;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;rejected;-;-;-
+V2;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;rejected;-;-;-
+V2;TFTM;ipc2023_tftm_co1_agl;satisficing;no;rejected;-;-;-
+V2;TFTM;ipc2023_tftm_co1_sat;satisficing;no;rejected;-;-;-
+V2;Tyr;tyr-gbfs;satisficing;yes;rejected;-;-;-
+V2;Tyr;tyr-lift;satisficing;yes;rejected;-;-;-
+V2;Tyr;tyr-opt;optimal;yes;rejected;-;-;-
+V3;ApxNovelty;ipc2023_ApxNovelty;satisficing;no;rejected;-;-;-
+V3;ApxNovelty;ipc2023_ApxNoveltyAnytime;satisficing;no;rejected;-;-;-
+V3;ApxNovelty;ipc2023_ApxNoveltyTarski;satisficing;no;rejected;-;-;-
+V3;CEGAR++;ipc2023_cegarplusplus;optimal;no;rejected;-;-;-
+V3;Cerberus;cerberus-sat;satisficing;no;rejected;-;-;-
+V3;Cerberus;ipc2023_cerberus_agl;satisficing;no;rejected;-;-;-
+V3;Cerberus;ipc2023_cerberus_sat;satisficing;no;rejected;-;-;-
+V3;Complementary;ipc2023_complementary;optimal;no;rejected;-;-;-
+V3;Count Downward;cd-agl;satisficing;yes;rejected;-;-;-
+V3;Count Downward;cd-opt;optimal;yes;rejected;-;-;-
+V3;Count Downward;cd-sat;satisficing;yes;rejected;-;-;-
+V3;Count Downward Together;cdt-opt;optimal;yes;rejected;-;-;-
+V3;Dalai;ipc2023_dalai_agl;satisficing;no;rejected;-;-;-
+V3;Dalai;ipc2023_dalai_opt;optimal;no;rejected;-;-;-
+V3;Dalai;ipc2023_dalai_sat;satisficing;no;rejected;-;-;-
+V3;DecAbStar;ipc2023_decabstar;optimal;no;rejected;-;-;-
+V3;DecStar;ipc2023_decstar_agl;satisficing;no;rejected;-;-;-
+V3;DecStar;ipc2023_decstar_opt;optimal;no;rejected;-;-;-
+V3;DecStar;ipc2023_decstar_sat;satisficing;no;rejected;-;-;-
+V3;Delfi;delfi;optimal;no;rejected;-;-;-
+V3;DiSCO;ipc2023_disco_agl;satisficing;no;rejected;-;-;-
+V3;DiSCO;ipc2023_disco_sat;satisficing;no;rejected;-;-;-
+V3;DoFri;ipc2023_dofri;optimal;no;rejected;-;-;-
+V3;DOM;ipc2023_dom_opt;optimal;no;error;-;-;-
+V3;Dual-BFWS;dual-bfws-fdparser;satisficing;no;rejected;-;-;-
+V3;ENHSP;enhsp;satisficing;yes;rejected;-;-;-
+V3;FDSS 2023;ipc2023_fdss_2023_agl;satisficing;no;rejected;-;-;-
+V3;FDSS 2023;ipc2023_fdss_2023_opt;optimal;no;rejected;-;-;-
+V3;FDSS 2023;ipc2023_fdss_2023_sat;satisficing;no;rejected;-;-;-
+V3;FF;ff;satisficing;no;rejected;-;-;-
+V3;FSM;ipc2023_FSM;satisficing;no;rejected;-;-;-
+V3;FTS;ipc2023_fts_ff_agl;satisficing;no;rejected;-;-;-
+V3;FTS;ipc2023_fts_ms_opt;optimal;no;rejected;-;-;-
+V3;FTS;ipc2023_fts_sbd_opt;optimal;no;rejected;-;-;-
+V3;Hapori Delfi;ipc2023_hapori_delfi_agl;satisficing;no;rejected;-;-;-
+V3;Hapori Delfi;ipc2023_hapori_delfi_opt;optimal;no;rejected;-;-;-
+V3;Hapori Delfi;ipc2023_hapori_delfi_sat;satisficing;no;not-run;-;-;-
+V3;Hapori EPS-DT;ipc2023_hapori_epsdt_agl;satisficing;no;rejected;-;-;-
+V3;Hapori EPS-DT;ipc2023_hapori_epsdt_opt;optimal;no;error;-;-;-
+V3;Hapori EPS-DT;ipc2023_hapori_epsdt_sat;satisficing;no;rejected;-;-;-
+V3;Hapori EPS-LR;ipc2023_hapori_epslr_agl;satisficing;no;rejected;-;-;-
+V3;Hapori EPS-LR;ipc2023_hapori_epslr_opt;optimal;no;rejected;-;-;-
+V3;Hapori EPS-LR;ipc2023_hapori_epslr_sat;satisficing;no;rejected;-;-;-
+V3;Hapori Greedy;ipc2023_hapori_greedy_agl;satisficing;no;error;-;-;-
+V3;Hapori Greedy;ipc2023_hapori_greedy_opt;optimal;no;rejected;-;-;-
+V3;Hapori Greedy;ipc2023_hapori_greedy_sat;satisficing;no;error;-;-;-
+V3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_opt;optimal;no;rejected;-;-;-
+V3;Hapori IBaCoP2;ipc2023_hapori_ibacop2_sat;satisficing;no;rejected;-;-;-
+V3;Hapori MIP2;ipc2023_hapori_mip2_agl;satisficing;no;rejected;-;-;-
+V3;Hapori MIP2;ipc2023_hapori_mip2_opt;optimal;no;rejected;-;-;-
+V3;Hapori MIP2;ipc2023_hapori_mip2_sat;satisficing;no;rejected;-;-;-
+V3;Hapori Stone Soup;ipc2023_hapori_stonesoup_agl;satisficing;no;rejected;-;-;-
+V3;Hapori Stone Soup;ipc2023_hapori_stonesoup_opt;optimal;no;rejected;-;-;-
+V3;Hapori Stone Soup;ipc2023_hapori_stonesoup_sat;satisficing;no;rejected;-;-;-
+V3;LAMA;lama;satisficing;no;rejected;-;-;-
+V3;LAMA;lama-first;satisficing;no;rejected;-;-;-
+V3;Levitron;ipc2023_levitron_agl;satisficing;no;rejected;-;-;-
+V3;Levitron;ipc2023_levitron_sat;satisficing;no;rejected;-;-;-
+V3;LPG-TD;lpg-td;satisficing;yes;rejected;-;-;-
+V3;Metric-FF;metric-ff;satisficing;yes;rejected;-;-;-
+V3;Metric-FF;metric-ff-2.0;satisficing;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-opt-lnp-1;optimal;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-opt-lnp-2;optimal;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-opt-snp-1;optimal;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-opt-snp-2;optimal;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-sat-lnp-1;satisficing;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-sat-snp-1;satisficing;yes;rejected;-;-;-
+V3;NLM-CutPlan;nlm-cutplan-sat-snp-2;satisficing;yes;rejected;-;-;-
+V3;NoveltyFB;ipc2023_NoveltyFB;satisficing;no;rejected;-;-;-
+V3;NoveltyFB;ipc2023_NoveltyFBAnytime;satisficing;no;rejected;-;-;-
+V3;nplanning;nplanning-agl;satisficing;yes;rejected;-;-;-
+V3;nplanning;nplanning-sat;satisficing;yes;rejected;-;-;-
+V3;Odin;ipc2023_odin;optimal;no;rejected;-;-;-
+V3;OMTPlan;omtplan-opt;optimal;yes;error;-;-;-
+V3;OMTPlan;omtplan-sat;satisficing;yes;rejected;-;-;-
+V3;OpCount4Sat;ipc2023_opcount4sat_agl;satisficing;no;rejected;-;-;-
+V3;OpCount4Sat;ipc2023_opcount4sat_sat;satisficing;no;rejected;-;-;-
+V3;OPTIC;optic;satisficing;yes;rejected;-;-;-
+V3;Panino;panino-agile;satisficing;yes;rejected;-;-;-
+V3;Panino;panino-sat;satisficing;yes;rejected;-;-;-
+V3;PATTY;patty-agl;satisficing;yes;error;-;-;-
+V3;PATTY;patty-sat;satisficing;yes;error;-;-;-
+V3;PATTYINT;pattyint-agl;satisficing;yes;error;-;-;-
+V3;PlanForge;planforge-gbfs;satisficing;yes;solved;23;-;invalid
+V3;PlanForge;planforge-opt;optimal;yes;solved;23;-;invalid
+V3;POPF;popf;satisficing;yes;rejected;-;-;-
+V3;Powerlifted;ipc2023_powerlifted_agl;satisficing;no;rejected;-;-;-
+V3;Powerlifted;ipc2023_powerlifted_sat;satisficing;no;rejected;-;-;-
+V3;Powerlifted;powerlifted;satisficing;no;rejected;-;-;-
+V3;Ragnarok;ipc2023_ragnarok;optimal;no;rejected;-;-;-
+V3;Scorpion;ipc2023_scorpion_2023;optimal;no;rejected;-;-;-
+V3;Scorpion;scorpion;optimal;no;rejected;-;-;-
+V3;Scorpion Maidu;ipc2023_maidu_agl;satisficing;no;rejected;-;-;-
+V3;Scorpion Maidu;ipc2023_maidu_sat;satisficing;no;rejected;-;-;-
+V3;SMTPlan;smtplan;satisficing;yes;rejected;-;-;-
+V3;Spock;ipc2023_spock;satisficing;no;rejected;-;-;-
+V3;SymBD;ipc2023_SymBD_2023_opt;optimal;no;rejected;-;-;-
+V3;SymK;ipc2023_symk;optimal;no;rejected;-;-;-
+V3;TamerLite;tamerlite-agl;satisficing;yes;rejected;-;-;-
+V3;TamerLite;tamerlite-sat;satisficing;yes;rejected;-;-;-
+V3;Tempest;tempest-sat;satisficing;yes;rejected;-;-;-
+V3;TFTM;ipc2023_tftm_argmax_agl;satisficing;no;rejected;-;-;-
+V3;TFTM;ipc2023_tftm_argmax_sat;satisficing;no;rejected;-;-;-
+V3;TFTM;ipc2023_tftm_co1_agl;satisficing;no;rejected;-;-;-
+V3;TFTM;ipc2023_tftm_co1_sat;satisficing;no;rejected;-;-;-
+V3;Tyr;tyr-gbfs;satisficing;yes;rejected;-;-;-
+V3;Tyr;tyr-lift;satisficing;yes;rejected;-;-;-
+V3;Tyr;tyr-opt;optimal;yes;rejected;-;-;-
